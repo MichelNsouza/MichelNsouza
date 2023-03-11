@@ -1,19 +1,19 @@
-### OLA MUNDO!!! 👋
+## OLA MUNDO!!! 👋
 #### Eu atualmente estou cursando o curso de Bacharelado em Sistemas de Informação
 ##### Curso que iniciei após me encontrar na área de tecnologia.
 #### Atualmente eu estou estudando PHP. Acompanhe minha evolução aqui no github!
 
 
 #### Veja alguns desafios de algoritmos no Beecrowd:          https://www.beecrowd.com.br/judge/pt/profile/711496;
-##### Ou no repo:
+###### Ou no repo: https://github.com/MichelNsouza/Beecrowd
 
 ### Alguns projetos que gosto:
 
 #### Desafio de ingresso no unidev (Nucleo de desivolvimento) https://michelnsouza.github.io/desafio_UN1D3V/;
-##### Foi proposto o desafio de replicar uma tela de hamburgueria fic, onde ao escolher um item, um codigo promocional é gerado, somente HTML, CSS e JS!
+###### Foi proposto o desafio de replicar uma tela de hamburgueria fic, onde ao escolher um item, um codigo promocional é gerado, somente HTML, CSS e JS!
 
 #### Desafio 10 curso em video                                https://michelnsouza.github.io/projeto-android/;
-##### Desafio feito pelo Gustavo Guanabara no curso de HTML5 e CSS3 pela plataforma Curso em video!
+###### Desafio feito pelo Gustavo Guanabara no curso de HTML5 e CSS3 pela plataforma Curso em video!
 
 #### Desafio 12 curso em video                                https://michelnsouza.github.io/projeto-cordel/.
 ##### Desafio feito pelo Gustavo Guanabara no curso de HTML5 e CSS3 pela plataforma Curso em video!
