@@ -2,7 +2,9 @@
 #### Eu atualmente estou cursando o curso de Bacharelado em Sistemas de Informação
 ###### Curso que iniciei após me encontrar na área de tecnologia.
 #### Atualmente eu estou estudando PHP. Acompanhe minha evolução aqui no github!
+
 <br/>
+
 #### Veja alguns desafios de algoritmos no Beecrowd:          https://www.beecrowd.com.br/judge/pt/profile/711496;
 ###### Ou no repo: https://github.com/MichelNsouza/Beecrowd
 
@@ -28,9 +30,6 @@
 <br/>
 
 #### Vamos fazer uma conexão no Linkedin !?                            https://www.linkedin.com/in/michel-souza-9662a5229/;
-
-<br/>
-
 "Conhecimento sem visão, Só te faz mais um burro convicto !"
 
 
