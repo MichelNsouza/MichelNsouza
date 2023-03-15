@@ -10,7 +10,7 @@
 
 <br/>
 
-### Alguns projetos que gosto:
+### Um pouco dos meus estudos:
 
 <br/>
 
