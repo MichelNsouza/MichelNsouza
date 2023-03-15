@@ -29,6 +29,11 @@
 
 <br/>
 
+#### Estudo individual de PHP:                                https://teste.michelnsouza.repl.co/. / https://github.com/MichelNsouza/PHP_AcampamentoDev
+###### Estudo individual de PHP com auxilio do conteudo do  [acampamentoDev](https://acampamentodev.hashnode.dev/)
+
+<br/>
+
 #### Vamos fazer uma conexão no Linkedin !?                            https://www.linkedin.com/in/michel-souza-9662a5229/;
 "Conhecimento sem visão, Só te faz mais um burro convicto !"
 
