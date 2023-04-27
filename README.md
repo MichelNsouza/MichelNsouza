@@ -29,8 +29,8 @@
 
 <br/>
 
-#### Estudo individual de PHP:                                https://teste.michelnsouza.repl.co/. / https://github.com/MichelNsouza/PHP_AcampamentoDev
-###### Estudo individual de PHP com auxilio do conteudo do  [acampamentoDev](https://acampamentodev.hashnode.dev/)
+#### Estudo individual de PHP:                                https://teste.michelnsouza.repl.co/. / [https://github.com/MichelNsouza/PHP_AcampamentoDev](https://github.com/MichelNsouza/PHP)
+###### Estudo individual de PHP com auxilio do conteudo do  [acampamentoDev](https://acampamentodev.hashnode.dev/), Alura e outros!
 
 <br/>
 
