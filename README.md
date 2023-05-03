@@ -34,7 +34,7 @@
 
 <br/>
 
-#### Vamos fazer uma conexão no Linkedin !?                            https://www.linkedin.com/in/michel-souza-9662a5229/;
+#### Vamos fazer uma conexão no Linkedin !?                            [linkedin/MichelSouza](https://www.linkedin.com/in/michel-n-souza/);
 "Conhecimento sem visão, Só te faz mais um burro convicto !"
 
 
