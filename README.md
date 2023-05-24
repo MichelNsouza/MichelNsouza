@@ -34,8 +34,8 @@
 
 <br/>
 
-####Estudo individual de PHP: [Estudos em PHP](https://github.com/MichelNsouza/PHP)
-###### Ccom auxilio do conteudo do  [acampamentoDev](https://acampamentodev.hashnode.dev/), Alura e outros!
+#### Estudo individual de PHP: [Estudos em PHP](https://github.com/MichelNsouza/PHP)
+###### Com auxilio do conteudo do  [acampamentoDev](https://acampamentodev.hashnode.dev/), Alura e outros!
 
 <br/>
 
