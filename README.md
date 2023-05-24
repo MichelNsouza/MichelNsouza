@@ -14,7 +14,7 @@
 
 <br/>
 
-#### Desafio de ingresso no unidev (Nucleo de desivolvimento) [UN1D3V Lanches](https://micUN1D3V Lancheshelnsouza.github.io/desafio_UN1D3V/);
+#### Desafio de ingresso no unidev (Nucleo de desivolvimento) [UN1D3V Lanches](https://michelnsouza.github.io/desafio_UN1D3V/);
 ###### Foi proposto o desafio de replicar uma tela de hamburgueria fic, onde ao escolher um item, um codigo promocional é gerado, somente HTML, CSS e JS!
 
 <br/>
@@ -34,8 +34,8 @@
 
 <br/>
 
-####Estudo individual de PHP: [Estudos em PHP](https://github.com/MichelNsouza/PHP)
-###### Ccom auxilio do conteudo do  [acampamentoDev](https://acampamentodev.hashnode.dev/), Alura e outros!
+#### Estudo individual de PHP: [Estudos em PHP](https://github.com/MichelNsouza/PHP)
+###### Com auxilio do conteudo do  [acampamentoDev](https://acampamentodev.hashnode.dev/), Alura e outros!
 
 <br/>
 
