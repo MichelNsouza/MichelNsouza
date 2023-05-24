@@ -27,12 +27,11 @@
 #### Desafio 12 curso em video                                https://michelnsouza.github.io/projeto-cordel/.
 ###### Desafio feito pelo Gustavo Guanabara no curso de HTML5 e CSS3 pela plataforma Curso em video!
 
-<br/>
-#### Estudo individual de HTML e CSS:  https://michelnsouza.github.io/Praticando_HTLM_CSS/
 
 <br/>
-#### Estudo individual de PHP: [Repo Estudos em PHP](https://github.com/MichelNsouza/PHP)
-###### Estudo individual de PHP com auxilio do conteudo do  [acampamentoDev](https://acampamentodev.hashnode.dev/), Alura e outros!
+#### Estudo individual de HTML e CSS:  [Praticas](https://michelnsouza.github.io/Praticando_HTLM_CSS/)
+Estudo individual de PHP: [Estudos em PHP](https://github.com/MichelNsouza/PHP)
+###### Ccom auxilio do conteudo do  [acampamentoDev](https://acampamentodev.hashnode.dev/), Alura e outros!
 
 <br/>
 
