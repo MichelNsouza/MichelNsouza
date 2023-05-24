@@ -28,8 +28,9 @@
 ###### Desafio feito pelo Gustavo Guanabara no curso de HTML5 e CSS3 pela plataforma Curso em video!
 
 <br/>
-
-#### Estudo individual de PHP:                                [Repo Estudos em PHP](https://github.com/MichelNsouza/PHP)
+#### Estudo individual de HTML e CSS: [Repo Praticas HtmlCss] (https://github.com/MichelNsouza/PHP)
+https://michelnsouza.github.io/Praticando_HTLM_CSS/
+#### Estudo individual de PHP:                                [Repo Estudos em PHP]
 ###### Estudo individual de PHP com auxilio do conteudo do  [acampamentoDev](https://acampamentodev.hashnode.dev/), Alura e outros!
 
 <br/>
