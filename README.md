@@ -30,7 +30,7 @@
 
 <br/>
 
-#### Estudo individual de HTML e CSS:  [Praticas](https://michelnsouza.github.io/Praticando_HTLM_CSS/);
+#### Estudo individual de HTML e CSS:  [Praticas](https://michelnsouza.github.io/Praticando_HTLM_CSS/), [REPO](https://github.com/MichelNsouza/Praticando_HTLM_CSS);
 
 <br/>
 
