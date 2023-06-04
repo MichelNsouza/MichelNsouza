@@ -5,16 +5,11 @@
 
 <br/>
 
-#### Veja alguns desafios de algoritmos no Beecrowd: [Bee/uri](https://www.beecrowd.com.br/judge/pt/profile/711496);
-###### Ou no repo: [Bee/uri repo](https://github.com/MichelNsouza/Beecrowd)
-
-<br/>
-
 ### Um pouco dos meus estudos:
 
 <br/>
 
-#### Desafio de ingresso no unidev (Nucleo de desivolvimento) [UN1D3V Lanches](https://michelnsouza.github.io/desafio_UN1D3V/);
+#### Desafio de ingresso no unidev (Nucleo de desenvolvimento) [UN1D3V Lanches](https://michelnsouza.github.io/desafio_UN1D3V/);
 ###### Foi proposto o desafio de replicar uma tela de hamburgueria fic, onde ao escolher um item, um codigo promocional é gerado, somente HTML, CSS e JS!
 
 <br/>
@@ -26,11 +21,6 @@
 
 #### Desafio 12 curso em video [Cordel](https://michelnsouza.github.io/projeto-cordel/);
 ###### Desafio feito pelo Gustavo Guanabara no curso de HTML5 e CSS3 pela plataforma Curso em video!
-
-
-<br/>
-
-#### Estudo individual de HTML e CSS:  [Praticas](https://michelnsouza.github.io/Praticando_HTLM_CSS/), [REPO](https://github.com/MichelNsouza/Praticando_HTLM_CSS);
 
 <br/>
 
