@@ -1,34 +1,43 @@
 ## OLA MUNDO!!! 👋
-#### Eu atualmente estou cursando o curso de Bacharelado em Sistemas de Informação
-###### Curso que iniciei após me encontrar na área de tecnologia.
-#### Atualmente eu estou estudando PHP. Acompanhe minha evolução aqui no github!
+#### Atualmente, estou cursando Bacharelado em Sistemas de Informação. Decidi ingressar nessa área depois de descobrir minha paixão pela tecnologia. No momento, estou focado em estudar PHP e você pode acompanhar minha evolução aqui no GitHub!
 
 <br/>
 
-### Um pouco dos meus estudos:
+### Aqui estão alguns dos meus estudos recentes:
 
 <br/>
 
-#### Desafio de ingresso no unidev (Nucleo de desenvolvimento) [UN1D3V Lanches](https://michelnsouza.github.io/desafio_UN1D3V/);
-###### Foi proposto o desafio de replicar uma tela de hamburgueria fic, onde ao escolher um item, um codigo promocional é gerado, somente HTML, CSS e JS!
+#### Desafio de ingresso no Unidev (Núcleo de Desenvolvimento) [UN1D3V Lanches](https://michelnsouza.github.io/desafio_UN1D3V/): 
+###### Foi proposto o desafio de replicar uma tela de uma hamburgueria fictícia, onde ao escolher um item, um código promocional é gerado. Utilizei apenas HTML, CSS e JS!
 
 <br/>
 
-#### Desafio 10 curso em video [Android](https://michelnsouza.github.io/projeto-android/);
-###### Desafio feito pelo Gustavo Guanabara no curso de HTML5 e CSS3 pela plataforma Curso em video!
+####Desafio 10 do curso em vídeo sobre "Tela de blog tema [Android](https://michelnsouza.github.io/projeto-android/)": 
+##### Esse desafio foi proposto pelo Gustavo Guanabara no curso de HTML5 e CSS3 da plataforma Curso em Vídeo!
 
 <br/>
 
-#### Desafio 12 curso em video [Cordel](https://michelnsouza.github.io/projeto-cordel/);
-###### Desafio feito pelo Gustavo Guanabara no curso de HTML5 e CSS3 pela plataforma Curso em video!
+#### Desafio 12 do curso em vídeo sobre [Cordel](https://michelnsouza.github.io/projeto-cordel/): 
+###### Outro desafio proposto pelo Gustavo Guanabara no curso de HTML5 e CSS3 da plataforma Curso em Vídeo!
+ 
+<br/>
+
+#### Além desses desafios, também tenho dedicado meu tempo a estudos individuais de [PHP](https://github.com/MichelNsouza/PHP), utilizando conteúdos do [AcampamentoDev](https://acampamentodev.hashnode.dev/), Alura e outros!
 
 <br/>
 
-#### Estudo individual de PHP: [Estudos em PHP](https://github.com/MichelNsouza/PHP)
-###### Com auxilio do conteudo do  [acampamentoDev](https://acampamentodev.hashnode.dev/), Alura e outros!
+#### Vamos nos conectar no LinkedIn? Você pode me encontrar em [Michel Souza](https://www.linkedin.com/in/michel-n-souza/).
 
-<br/>
+### Lembre-se: "Conhecimento sem visão só te torna um burro convicto!"
 
-#### Vamos fazer uma conexão no Linkedin !?                            [linkedin/MichelSouza](https://www.linkedin.com/in/michel-n-souza/);
-"Conhecimento sem visão, Só te faz mais um burro convicto !"
+
+
+
+
+
+
+
+
+
+
 
