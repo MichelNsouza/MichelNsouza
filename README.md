@@ -12,8 +12,8 @@
 
 <br/>
 
-####Desafio 10 do curso em vídeo sobre "Tela de blog tema [Android](https://michelnsouza.github.io/projeto-android/)": 
-##### Esse desafio foi proposto pelo Gustavo Guanabara no curso de HTML5 e CSS3 da plataforma Curso em Vídeo!
+#### Desafio 10 do curso em vídeo sobre "Tela de blog tema [Android](https://michelnsouza.github.io/projeto-android/)": 
+###### Esse desafio foi proposto pelo Gustavo Guanabara no curso de HTML5 e CSS3 da plataforma Curso em Vídeo!
 
 <br/>
 
@@ -22,7 +22,7 @@
  
 <br/>
 
-#### Além desses desafios, também tenho dedicado meu tempo a estudos individuais de [PHP](https://github.com/MichelNsouza/PHP), utilizando conteúdos do [AcampamentoDev](https://acampamentodev.hashnode.dev/), Alura e outros!
+#### Além desses desafios, também tenho dedicado meu tempo a estudos individuais de [PHP](https://github.com/MichelNsouza/PHP) e fiz um repositorio para pequenas praticas em [HTML/CSS/JS](https://github.com/MichelNsouza/minhasPraticas), utilizando conteúdos do [AcampamentoDev](https://acampamentodev.hashnode.dev/), Alura e outros!
 
 <br/>
 
