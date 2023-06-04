@@ -12,12 +12,12 @@
 
 <br/>
 
-#### Desafio 10 do curso em vídeo sobre "Tela de blog tema [Android](https://michelnsouza.github.io/projetoAndroid/)": 
+#### Desafio 10 do curso em vídeo sobre, [Android](https://michelnsouza.github.io/projetoAndroid/): 
 ###### Esse desafio foi proposto pelo Gustavo Guanabara no curso de HTML5 e CSS3 da plataforma Curso em Vídeo!
 
 <br/>
 
-#### Desafio 12 do curso em vídeo sobre [Cordel](https://michelnsouza.github.io/projetoCordel/): 
+#### Desafio 12 do curso em vídeo, [Cordel](https://michelnsouza.github.io/projetoCordel/): 
 ###### Outro desafio proposto pelo Gustavo Guanabara no curso de HTML5 e CSS3 da plataforma Curso em Vídeo!
  
 <br/>
