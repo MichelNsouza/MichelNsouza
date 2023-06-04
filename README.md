@@ -28,7 +28,7 @@
 
 #### Vamos nos conectar no LinkedIn? Você pode me encontrar em [Michel Souza](https://www.linkedin.com/in/michel-n-souza/).
 
-### Lembre-se: "Conhecimento sem visão só te torna um burro convicto!"
+### Lembre-se: "Conhecimento sem visão, Só te faz mais um burro convicto!" ~ Djonga.
 
 
 
