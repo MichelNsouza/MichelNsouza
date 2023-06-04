@@ -7,17 +7,17 @@
 
 <br/>
 
-#### Desafio de ingresso no Unidev (Núcleo de Desenvolvimento) [UN1D3V Lanches](https://michelnsouza.github.io/desafio_UN1D3V/): 
+#### Desafio de ingresso no Unidev (Núcleo de Desenvolvimento) [UN1D3V Lanches](https://michelnsouza.github.io/desafioUnidev/): 
 ###### Foi proposto o desafio de replicar uma tela de uma hamburgueria fictícia, onde ao escolher um item, um código promocional é gerado. Utilizei apenas HTML, CSS e JS!
 
 <br/>
 
-#### Desafio 10 do curso em vídeo sobre "Tela de blog tema [Android](https://michelnsouza.github.io/projeto-android/)": 
+#### Desafio 10 do curso em vídeo sobre "Tela de blog tema [Android](https://michelnsouza.github.io/projetoAndroid/)": 
 ###### Esse desafio foi proposto pelo Gustavo Guanabara no curso de HTML5 e CSS3 da plataforma Curso em Vídeo!
 
 <br/>
 
-#### Desafio 12 do curso em vídeo sobre [Cordel](https://michelnsouza.github.io/projeto-cordel/): 
+#### Desafio 12 do curso em vídeo sobre [Cordel](https://michelnsouza.github.io/projetoCordel/): 
 ###### Outro desafio proposto pelo Gustavo Guanabara no curso de HTML5 e CSS3 da plataforma Curso em Vídeo!
  
 <br/>
