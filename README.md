@@ -3,7 +3,7 @@
 
 <br/>
 
-### Aqui estão alguns dos meus estudos recentes:
+### Aqui estão alguns dos meus estudos:
 
 <br/>
 
