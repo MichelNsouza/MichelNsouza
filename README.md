@@ -3,10 +3,6 @@
 
 <br/>
 
-### Aqui esta alguns desafios que encontrei durante meus estudos:
-
-<br/>
-
 #### Desafio de ingresso no Unidev (Núcleo de Desenvolvimento) [UN1D3V Lanches](https://michelnsouza.github.io/desafioUnidev/): 
 ###### Foi proposto o desafio de replicar uma tela de uma hamburgueria fictícia, onde ao escolher um item, um código promocional é gerado. Utilizei apenas HTML, CSS e JS!
 
@@ -62,7 +58,7 @@
 ### Mundo PHP:
 #### Avançando com PHP: Arrays, Strings, Função e Web
 #### PHP: manipulando coleções com Arrays
-#### PHP Strings: manipulando textos com PH
+#### PHP Strings: manipulando textos com PHP
 #### Orientação a Objetos com PHP: Classes, métodos e atributos
 #### Avançando com Orientação a Objetos com PHP: Herança, Polimorfismo e Interfaces
 #### PHP I/O: trabalhando com arquivos e streams
@@ -76,7 +72,7 @@
 #### Modelagem de banco de dados relacional: normalização
 #### Modelagem de banco de dados relacional: entendendo SQL
 #### MySQL e JSON: persistindo JSON de maneira eficiente
-#### PostgreSQL
+#### PostgreSQL: Introdução ao SGBD
 #### PostgreSQL: Views, Sub-Consultas e Funções
 #### PostgreSQL: comandos DML e DDL
 #### PostgreSQL: desenvolva com PL/pgSQL
@@ -94,12 +90,12 @@
 #### PHP na Web: aplicando boas práticas e PSRs
 ### Mundo Laravel:
 #### Laravel: criando uma aplicação com MVC
-#### Acamapamento dev Laravel ToDo list
+#### Acamapamento dev: Laravel ToDo list
 
 <br/>
 
 ### Atualmente:
-#### Acamapamento dev Laravel Gerenciamento de noticias
+#### Acamapamento dev: Laravel Gerenciamento de noticias
 #### Laravel: validando formulários, usando sessões e definindo relacionamentos
 
 <br/>
