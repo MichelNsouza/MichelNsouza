@@ -100,7 +100,7 @@
 
 <br/>
 
-#### Confira meu repositorio resumo de [PHP](https://github.com/MichelNsouza/PHP) tambem fiz um repositorio para pequenas praticas em [HTML/CSS/JS](https://github.com/MichelNsouza/minhasPraticas), utilizando conteúdos do [AcampamentoDev](https://acampamentodev.hashnode.dev/), Alura e outros!
+#### Confira meu repositorio de [PHP](https://github.com/MichelNsouza/PHP) e pequenas praticas em [HTML/CSS/JS](https://github.com/MichelNsouza/minhasPraticas), utilizando conteúdos do [AcampamentoDev](https://acampamentodev.hashnode.dev/), Alura e outros!
 
 <br/>
 
