@@ -1,14 +1,22 @@
 ## OLA MUNDO!!! 👋
 #### Atualmente, estou cursando Bacharelado em Sistemas de Informação. Decidi ingressar nessa área depois de descobrir minha paixão pela tecnologia. No momento, estou focado em estudar PHP e você pode acompanhar minha evolução aqui no GitHub!
+
 <br/>
+
 ### Aqui esta alguns desafios que encontrei durante meus estudos:
+
 <br/>
+
 #### Desafio de ingresso no Unidev (Núcleo de Desenvolvimento) [UN1D3V Lanches](https://michelnsouza.github.io/desafioUnidev/): 
 ###### Foi proposto o desafio de replicar uma tela de uma hamburgueria fictícia, onde ao escolher um item, um código promocional é gerado. Utilizei apenas HTML, CSS e JS!
+
 <br/>
+
 #### Desafio 10 do curso em vídeo sobre, [Android](https://michelnsouza.github.io/projetoAndroid/): 
 ###### Esse desafio foi proposto pelo Gustavo Guanabara no curso de HTML5 e CSS3 da plataforma Curso em Vídeo!
+
 <br/>
+
 #### Desafio 12 do curso em vídeo, [Cordel](https://michelnsouza.github.io/projetoCordel/): 
 ###### Outro desafio proposto pelo mestre Gustavo Guanabara no curso de HTML5 e CSS3 da plataforma Curso em Vídeo!
  
@@ -18,23 +26,17 @@
 
 <br/>
 
-### Introdução ao mundo DEV
+### Introdução ao mundo DEV:
 #### Curso HTML5 e CSS3: módulo 1 ao 4 do Curso em Video
 #### Lógica de programação: comece em lógica com o jogo Pong e JavaScript
 #### Lógica de programação: laços e listas com JavaScript
 #### Arquitetura de computadores: por trás de como seu programa funciona
-#### Linux I: conhecendo e utilizando o terminal
 #### HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags
 #### HTML e CSS: Classes, posicionamento e Flexbox
 #### HTML e CSS: cabeçalho, footer e variáveis CSS
 #### HTML e CSS: trabalhando com responsividade e publicação de projetos
-#### JavaScript para Web: Crie páginas dinâmicas
-#### Git e GitHub: repositório, commit e versões
 #### HTML e CSS: praticando HTML/CSS
 #### HTML e CSS: responsividade com mobile-first
-#### Windows Prompt: utilizando o CMD
-#### Linux Onboarding: usando a CLI de uma forma rápida e prática
-#### HTTP: Entendendo a web por baixo dos panos
 
 <br/>
 
@@ -43,7 +45,17 @@
 #### C: avançando na linguagem
 #### Java JRE e JDK: compile e execute o seu programa
 #### Java OO: entendendo a Orientação a Objetos
+#### JavaScript para Web: Crie páginas dinâmicas
 #### PHP: conceitos, lidando com dados, loops e mais
+
+<br/>
+
+### Aprofundando no mundo DEV:
+#### Windows Prompt: utilizando o CMD
+#### Linux Onboarding: usando a CLI de uma forma rápida e prática
+#### HTTP: Entendendo a web por baixo dos panos
+#### Git e GitHub: repositório, commit e versões
+#### Linux I: conhecendo e utilizando o terminal
 
 <br/>
 
@@ -58,7 +70,7 @@
 
 <br/>
 
-### Banco de dados
+### Banco de dados:
 #### Modelagem de banco de dados: entidades, relacionamentos e atributos
 #### Modelagem de banco de dados relacional: modelagem lógica e física
 #### Modelagem de banco de dados relacional: normalização
@@ -73,23 +85,20 @@
 
 <br/>
 
-### Mundo PHP NVL 2
+### Mundo PHP NVL 2:
 #### PHP Composer: Dependências, Autoload e Publicação
 #### PHP e PDO: trabalhando com bancos de dados
 #### PHP e MySQL: criando sua primeira aplicação web
 #### PHP na Web: conhecendo o padrão MVC
 #### PHP na Web: lidando com segurança e API
 #### PHP na Web: aplicando boas práticas e PSRs
-
-<br/>
-
-### Mundo Laravel
+### Mundo Laravel:
 #### Laravel: criando uma aplicação com MVC
 #### Acamapamento dev Laravel ToDo list
 
 <br/>
 
-### Atualmente
+### Atualmente:
 #### Acamapamento dev Laravel Gerenciamento de noticias
 #### Laravel: validando formulários, usando sessões e definindo relacionamentos
 
