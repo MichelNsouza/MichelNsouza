@@ -1,31 +1,20 @@
 ## OLA MUNDO!!! 👋
 #### Atualmente, estou cursando Bacharelado em Sistemas de Informação. Decidi ingressar nessa área depois de descobrir minha paixão pela tecnologia. No momento, estou focado em estudar PHP e você pode acompanhar minha evolução aqui no GitHub!
 
-<br/>
-
 #### [ToDo List](https://to-do-michel.vercel.app/) do curso de Laravel do [Acampamento Dev](https://www.youtube.com/@acampamentodev5804): 
 ###### CRUD Classico de Lista de tarefas, feita em Laravel. 
 ###### Deploy no Vercel com DB PostgreSQL na Render. (plano gratuito é limitado, por favor não vandalizar :) )
-<br/>
 
 #### Desafio de ingresso no Unidev (Núcleo de Desenvolvimento) [UN1D3V Lanches](https://michelnsouza.github.io/desafioUnidev/): 
 ###### Foi proposto o desafio de replicar uma tela de uma hamburgueria fictícia, onde ao escolher um item, um código promocional é gerado. Utilizei apenas HTML, CSS e JS!
 
-<br/>
-
 #### Desafio 10 do curso em vídeo sobre, [Android](https://michelnsouza.github.io/projetoAndroid/): 
 ###### Esse desafio foi proposto pelo Gustavo Guanabara no curso de HTML5 e CSS3 da plataforma Curso em Vídeo!
 
-<br/>
-
 #### Desafio 12 do curso em vídeo, [Cordel](https://michelnsouza.github.io/projetoCordel/): 
 ###### Outro desafio proposto pelo mestre Gustavo Guanabara no curso de HTML5 e CSS3 da plataforma Curso em Vídeo!
- 
-<br/>
 
 ## Minha trilha de estudos ate o momento:
-
-<br/>
 
 ### Introdução ao mundo DEV:
 #### Curso HTML5 e CSS3: módulo 1 ao 4 do Curso em Video
@@ -39,8 +28,6 @@
 #### HTML e CSS: praticando HTML/CSS
 #### HTML e CSS: responsividade com mobile-first
 
-<br/>
-
 ### Escolhendo minha primeira linguagem:
 #### C: conhecendo a Linguagem das Linguagens
 #### C: avançando na linguagem
@@ -49,16 +36,12 @@
 #### JavaScript para Web: Crie páginas dinâmicas
 #### PHP: conceitos, lidando com dados, loops e mais
 
-<br/>
-
 ### Aprofundando no mundo DEV:
 #### Windows Prompt: utilizando o CMD
 #### Linux Onboarding: usando a CLI de uma forma rápida e prática
 #### HTTP: Entendendo a web por baixo dos panos
 #### Git e GitHub: repositório, commit e versões
 #### Linux I: conhecendo e utilizando o terminal
-
-<br/>
 
 ### Mundo PHP:
 #### Avançando com PHP: Arrays, Strings, Função e Web
@@ -68,8 +51,6 @@
 #### Avançando com Orientação a Objetos com PHP: Herança, Polimorfismo e Interfaces
 #### PHP I/O: trabalhando com arquivos e streams
 #### PHP Exceptions: tratamento de erros
-
-<br/>
 
 ### Banco de dados:
 #### Modelagem de banco de dados: entidades, relacionamentos e atributos
@@ -84,8 +65,6 @@
 #### PostgreSQL: Triggers, transações, erros e cursore
 #### PostgreSQL: administração e otimização do banco
 
-<br/>
-
 ### Mundo PHP NVL 2:
 #### PHP Composer: Dependências, Autoload e Publicação
 #### PHP e PDO: trabalhando com bancos de dados
@@ -97,20 +76,13 @@
 #### Laravel: criando uma aplicação com MVC
 #### Acamapamento dev: Laravel ToDo list
 
-<br/>
-
 ### Atualmente:
 #### Acamapamento dev: Laravel Gerenciamento de noticias
 #### Laravel: validando formulários, usando sessões e definindo relacionamentos
 
-<br/>
-
 #### Vamos nos conectar no LinkedIn? Você pode me encontrar em [Michel Souza](https://www.linkedin.com/in/michel-n-souza/).
 
 ### Lembre-se: "Conhecimento sem visão, Só te faz mais um burro convicto!" ~ Djonga.
-
-
-
 
 
 
