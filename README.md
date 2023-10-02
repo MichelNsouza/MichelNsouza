@@ -1,17 +1,17 @@
 ## OLA MUNDO!!! 👋
 #### Atualmente, estou cursando Bacharelado em Sistemas de Informação. Decidi ingressar nessa área depois de descobrir minha paixão pela tecnologia. No momento, estou focado em estudar PHP e você pode acompanhar minha evolução aqui no GitHub!
 
-#### [ToDo List] (https://to-do-michel.vercel.app/) do curso de Laravel do [Acampamento Dev] (https://www.youtube.com/@acampamentodev5804): 
+#### [ToDo List](https://to-do-michel.vercel.app/) do curso de Laravel do [Acampamento Dev](https://www.youtube.com/@acampamentodev5804): 
 ###### CRUD Classico de Lista de tarefas, feita em Laravel. 
 ###### Deploy no Vercel com DB PostgreSQL na Render. (plano gratuito é limitado, por favor não vandalizar :) )
 
-#### Desafio de ingresso no Unidev (Núcleo de Desenvolvimento) [UN1D3V Lanches] (https://michelnsouza.github.io/desafioUnidev/): 
+#### Desafio de ingresso no Unidev (Núcleo de Desenvolvimento) [UN1D3V Lanches](https://michelnsouza.github.io/desafioUnidev/): 
 ###### Foi proposto o desafio de replicar uma tela de uma hamburgueria fictícia, onde ao escolher um item, um código promocional é gerado. Utilizei apenas HTML, CSS e JS!
 
-#### Desafio 10 do curso em vídeo sobre, [Android] (https://michelnsouza.github.io/projetoAndroid/): 
+#### Desafio 10 do curso em vídeo sobre, [Android](https://michelnsouza.github.io/projetoAndroid/): 
 ###### Esse desafio foi proposto pelo Gustavo Guanabara no curso de HTML5 e CSS3 da plataforma Curso em Vídeo!
 
-#### Desafio 12 do curso em vídeo, [Cordel] (https://michelnsouza.github.io/projetoCordel/): 
+#### Desafio 12 do curso em vídeo, [Cordel](https://michelnsouza.github.io/projetoCordel/): 
 ###### Outro desafio proposto pelo mestre Gustavo Guanabara no curso de HTML5 e CSS3 da plataforma Curso em Vídeo!
 
 ## Minha trilha de estudos ate o momento:
@@ -80,7 +80,7 @@
 #### Acamapamento dev: Laravel Gerenciamento de noticias
 #### Laravel: validando formulários, usando sessões e definindo relacionamentos
 
-#### Vamos nos conectar no LinkedIn? Você pode me encontrar em [Michel Souza] (https://www.linkedin.com/in/michel-n-souza/).
+#### Vamos nos conectar no LinkedIn? Você pode me encontrar em [Michel Souza](https://www.linkedin.com/in/michel-n-souza/).
 
 ### Lembre-se: "Conhecimento sem visão, Só te faz mais um burro convicto!" ~ Djonga.
 
