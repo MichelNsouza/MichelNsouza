@@ -3,6 +3,11 @@
 
 <br/>
 
+#### [ToDo List](https://to-do-michel.vercel.app/) do curso de Laravel do [Acampamento Dev](https://www.youtube.com/@acampamentodev5804): 
+###### CRUD Classico de Lista de tarefas, feita em Laravel. 
+###### Deploy no Vercel com DB PostgreSQL na Render. (plano gratuito é limitado, por favor não vandalizar :) )
+<br/>
+
 #### Desafio de ingresso no Unidev (Núcleo de Desenvolvimento) [UN1D3V Lanches](https://michelnsouza.github.io/desafioUnidev/): 
 ###### Foi proposto o desafio de replicar uma tela de uma hamburgueria fictícia, onde ao escolher um item, um código promocional é gerado. Utilizei apenas HTML, CSS e JS!
 
@@ -97,10 +102,6 @@
 ### Atualmente:
 #### Acamapamento dev: Laravel Gerenciamento de noticias
 #### Laravel: validando formulários, usando sessões e definindo relacionamentos
-
-<br/>
-
-#### Confira meu repositorio de [PHP](https://github.com/MichelNsouza/PHP) e pequenas praticas em [HTML/CSS/JS](https://github.com/MichelNsouza/minhasPraticas), utilizando conteúdos do [AcampamentoDev](https://acampamentodev.hashnode.dev/), Alura e outros!
 
 <br/>
 
