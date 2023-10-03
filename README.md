@@ -4,13 +4,13 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou apaix
 
 ## Projetos Destacados
 
-### CMS de Notícias
+### [CMS de Notícias](https://github.com/MichelNsouza/LaravelCMS)
 
 - [Demo](https://laravel-cms.vercel.app/noticias)
 - Sistema de gerenciamento de notícias feito em Laravel.
 - Deploy no Vercel com DB PostgreSQL na Render (plano gratuito, por favor, não vandalizar).
 
-### To-Do List
+### [To-Do List](https://github.com/MichelNsouza/ToDo)
 
 - [Demo](https://to-do-michel.vercel.app/)
 - CRUD clássico de lista de tarefas feito em Laravel.
