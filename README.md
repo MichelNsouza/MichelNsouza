@@ -1,13 +1,17 @@
-OLA MUNDO!!! 👋
+OLAAAAAAAAAAAA MUNDO!!! 👋
 
 Atualmente, estou cursando Bacharelado em Sistemas de Informação. Decidi ingressar nessa área depois de descobrir minha paixão pela tecnologia. No momento, estou focado em estudar PHP e você pode acompanhar minha evolução aqui no GitHub!
 
-**[CMS de noticias ](https://laravel-cms.vercel.app/noticias)** do curso de Laravel do [Acampamento Dev](https://www.youtube.com/@acampamentodev5804): 
+**[CMS de noticias ](https://laravel-cms.vercel.app/noticias)** do curso de Laravel do [Acampamento Dev](https://www.youtube.com/@acampamentodev5804):
+
 Sistema de gerenciamento de noticias, feito em Laravel. 
+
 Deploy no Vercel com DB PostgreSQL na Render. (plano gratuito é limitado, por favor não vandalizar :) )
 
 **[ToDo List](https://to-do-michel.vercel.app/)** do curso de Laravel do [Acampamento Dev](https://www.youtube.com/@acampamentodev5804): 
+
 CRUD Classico de Lista de tarefas, feita em Laravel. 
+
 Deploy no Vercel com DB PostgreSQL na Render. (plano gratuito é limitado, por favor não vandalizar :) )
 
 Desafio de ingresso no Unidev (Núcleo de Desenvolvimento) [UN1D3V Lanches](https://michelnsouza.github.io/desafioUnidev/): 
