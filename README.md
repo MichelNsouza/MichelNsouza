@@ -48,6 +48,7 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou apaix
 ### Escolhendo Minha Primeira Linguagem
 
 - C: conhecendo a Linguagem das Linguagens
+- Desafios beecrowd em C/C++ (preparação para maratona de programação SBC 2022)
 - Java JRE e JDK: compile e execute o seu programa
 - Java OO: entendendo a Orientação a Objetos
 - JavaScript para Web: Crie páginas dinâmicas
