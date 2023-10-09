@@ -6,13 +6,13 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou apaix
 
 ### [CMS de Notícias](https://github.com/MichelNsouza/LaravelCMS)
 
-- [Demo](https://laravel-cms.vercel.app/noticias)
+- [Demo](https://laravel-aielcm7sw-michelnsouza.vercel.app/noticias)
 - Sistema de gerenciamento de notícias feito em Laravel.
 - Deploy no Vercel com DB PostgreSQL na Render (plano gratuito, por favor, não vandalizar).
 
 ### [To-Do List](https://github.com/MichelNsouza/ToDo)
 
-- [Demo](https://to-do-michel.vercel.app/)
+- [Demo](https://to-70aiccjfa-michelnsouza.vercel.app/)
 - CRUD clássico de lista de tarefas feito em Laravel.
 - Deploy no Vercel com DB PostgreSQL na Render (plano gratuito, por favor, não vandalizar).
 
