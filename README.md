@@ -8,24 +8,28 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou apaix
 
 - [Demo](michelnsouza-portfolio.vercel.app)
 - Sistema de gerenciamento de portifolio feito em Laravel.
+- Estilos em Bootstrap.
 - Deploy no Vercel com DB PostgreSQL na Render.
   
 ### [Gerador de Curriculo](https://github.com/MichelNsouza/GeradorCV/)
 
 - [Demo](https://geradorcurriculo.vercel.app/)
 - Sistema para gerar curriculos em PDF feito em Laravel.
-- Deploy no Vercel não armazena dados.
+- Estilos em Bootstrap.
+- Deploy no Vercel, não armazena dados.
   
 ### [CMS de Notícias](https://github.com/MichelNsouza/LaravelCMS)
 
 - [Demo](https://laravel-cms.vercel.app/)
 - Sistema de gerenciamento de notícias feito em Laravel.
+- Estilos em Bootstrap.
 - Deploy no Vercel com DB PostgreSQL na Render (plano gratuito, por favor, não vandalizar)
 
 ### [To-Do List](https://github.com/MichelNsouza/ToDo)
 
 - [Demo](https://to-do-list-michel.vercel.app/)
 - CRUD clássico de lista de tarefas feito em Laravel.
+- Estilos em Bootstrap.
 - Deploy no Vercel com DB PostgreSQL na Render (plano gratuito, por favor, não vandalizar).
 
 ### Desafio UN1D3V Lanches
