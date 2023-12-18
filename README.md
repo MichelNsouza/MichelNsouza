@@ -123,7 +123,7 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou apaix
 - Laravel: criando uma aplicação com MVC
 - Acampamento Dev: Laravel To-Do List
 - Acampamento Dev: Laravel Gerenciamento de Notícias
-- Laravel: validando formulários, usando sessões e definindo relacionamentos - 
+- Laravel: validando formulários, usando sessões e definindo relacionamentos
 - Laravel: e-mails, eventos assíncronos, uploads e testes
 - Laravel: transações, service container e autenticação
 - Atualmente elaborando projetos para consolidar o conhecimento :) 
