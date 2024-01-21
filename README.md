@@ -3,13 +3,6 @@
 Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou apaixonado pela tecnologia. Estou focado em estudar PHP e você pode acompanhar minha evolução aqui no GitHub!
 
 ## Projetos Destacados
-
-### [Portifolio](https://github.com/MichelNsouza/portfolio)
-
-- [Demo](https://michelnsouza-portfolio.vercel.app/)
-- Sistema de gerenciamento de portifolio feito em Laravel.
-- Estilos em Bootstrap.
-- Deploy no Vercel com DB PostgreSQL na Render.
   
 ### [Gerador de Curriculo](https://github.com/MichelNsouza/GeradorCV/)
 
