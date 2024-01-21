@@ -10,13 +10,6 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou apaix
 - Sistema de gerenciamento de portifolio feito em Laravel.
 - Estilos em Bootstrap.
 - Deploy no Vercel com DB PostgreSQL na Render.
-
-### [Gerenciador de Finanças ](https://github.com/MichelNsouza/FinaceControl)
-
-- [Demo](https://finacecontrol.michelnsouza.repl.co/dashboard)
-- Sistema para gerenciar finanças pessoais, feito em Laravel.
-- Estilos em Bootstrap.
-- Deploy no Vercel/replt com DB PostgreSQL na Render.
   
 ### [Gerador de Curriculo](https://github.com/MichelNsouza/GeradorCV/)
 
