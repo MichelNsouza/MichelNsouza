@@ -16,14 +16,14 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou apaix
 - [Demo](https://laravel-cms.vercel.app/)
 - Sistema de gerenciamento de notícias feito em Laravel.
 - Estilos em Bootstrap.
-- Deploy no Vercel com DB PostgreSQL na Render (plano gratuito, por favor, não vandalizar)
+- Deploy no Vercel com DB PostgreSQL na Render.
 
 ### [To-Do List](https://github.com/MichelNsouza/ToDo)
 
 - [Demo](https://to-do-list-michel.vercel.app/)
 - CRUD clássico de lista de tarefas feito em Laravel.
 - Estilos em Bootstrap.
-- Deploy no Vercel com DB PostgreSQL na Render (plano gratuito, por favor, não vandalizar).
+- Deploy no Vercel com DB PostgreSQL na Render.
 
 ### Desafio UN1D3V Lanches
 
