@@ -2,6 +2,24 @@
 
 Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou apaixonado pela tecnologia. Estou focado em estudar PHP e você pode acompanhar minha evolução aqui no GitHub!
 
+-[Projetos Destacados](#Projetos Destacados)
+-[Gerador de Curriculo](Gerador de Curriculo)
+-[CMS de Notícia](CMS de Notícia)
+-[To-Do List](To-Do List)
+-[]()
+-[]()
+-[]()
+-[]()
+-[]()
+-[]()
+-[]()
+-[]()
+-[]()
+-[]()
+-[]()
+-[]()
+-[]()
+
 ## Projetos Destacados
   
 ### [Gerador de Curriculo](https://github.com/MichelNsouza/GeradorCV/)
