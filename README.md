@@ -53,9 +53,14 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou apaix
 - HTML e CSS: Trabalhando com responsividade e publicação de projetos
 - HTML e CSS: Praticando HTML/CSS
 - HTML e CSS: Responsividade com mobile-first
-
+- Gestão de Projetos (Faculdade)
+-	Arquitetura e Organização de Computadores (Faculdade)
+  
 ### Escolhendo Minha Primeira Linguagem
-
+- Lógica e Matemática Computacional	(Faculdade)
+- Sistemas Operacionais (Faculdade)
+- Algoritmos e Técnicas de Programação (Faculdade)
+- Redes de Computadores	(Faculdade)
 - C: conhecendo a Linguagem das Linguagens
 - Desafios beecrowd em C/C++ (preparação para maratona de programação SBC 2022)
 - Java JRE e JDK: compile e execute o seu programa
@@ -70,9 +75,10 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou apaix
 - HTTP: Entendendo a web por baixo dos panos
 - Git e GitHub: repositório, commit e versões
 - Linux I: conhecendo e utilizando o terminal
+- Programação Orientada a Objetos (Faculdade)
 
 ### Mundo PHP
-
+- Algoritmos e Estrutura de Dados	(Faculdade)
 - Avançando com PHP: Arrays, Strings, Funções e Web
 - PHP: manipulando coleções com Arrays
 - PHP Strings: manipulando textos com PHP
@@ -82,7 +88,7 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou apaix
 - PHP Exceptions: tratamento de erros
 
 ### Banco de Dados
-
+- Modelagem de Dados (Faculdade)
 - Modelagem de banco de dados: entidades, relacionamentos e atributos
 - Modelagem de banco de dados relacional: modelagem lógica e física
 - Modelagem de banco de dados relacional: normalização
@@ -110,12 +116,16 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou apaix
 - Acampamento Dev: Laravel To-Do List
 - Acampamento Dev: Laravel Gerenciamento de Notícias
 - Laravel: validando formulários, usando sessões e definindo relacionamentos
-- Laravel: e-mails, eventos assíncronos, uploads e testes
-- Laravel: transações, service container e autenticação
-- Atualmente elaborando projetos para consolidar o conhecimento :) 
+- Desenvolvendo uma API Rest com Laravel e MySQL (curso de férias off Faculdade)
 
-## Vamos nos conectar no LinkedIn?
+### Atualmente
+-	Gerenciamento e Qualidade de Software (Faculdade)
+-	Programação em Banco de Dados (Faculdade)
+-	Programação Web (Faculdade)
+-	Programação Orientada a Objetos II (Faculdade)	 
+
+## Chegou até aqui? Vamos nos conectar no LinkedIn!
 
 Você pode me encontrar em [Michel Souza](https://www.linkedin.com/in/michel-n-souza/).
 
-Lembre-se: "Conhecimento sem visão só te faz mais um burro convicto!" ~ Djonga.
+Lembre-se: "Conhecimento sem visão só te faz mais um burro convicto!".
