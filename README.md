@@ -2,30 +2,19 @@
 
 Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou apaixonado pela tecnologia. Estou focado em estudar PHP e você pode acompanhar minha evolução aqui no GitHub!
 
--[Projetos Destacados](#Projetos Destacados)
--[Gerador de Curriculo](Gerador de Curriculo)
--[CMS de Notícia](CMS de Notícia)
--[To-Do List](To-Do List)
--[]()
--[]()
--[]()
--[]()
--[]()
--[]()
--[]()
--[]()
--[]()
--[]()
--[]()
--[]()
--[]()
+## Sumário
+
+- [Projetos Destacados](#projetos-destacados)
+- [Minha Trilha de Estudos Até o Momento](#minha-trilha-de-estudos-até-o-momento)
+- [Atualmente](#atualmente)
+- [Chegou até aqui? Vamos nos conectar no LinkedIn!](#chegou-até-aqui-vamos-nos-conectar-no-linkedin)
 
 ## Projetos Destacados
   
 ### [Gerador de Curriculo](https://github.com/MichelNsouza/GeradorCV/)
 
 - [Demo](https://geradorcurriculo.vercel.app/)
-- Sistema para gerar curriculos em PDF feito em Laravel.
+- Sistema para gerar currículos em PDF feito em Laravel.
 - Estilos em Bootstrap.
 - Deploy no Vercel, não armazena dados.
   
