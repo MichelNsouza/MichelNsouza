@@ -6,6 +6,13 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou apaix
 
 - [Projetos Destacados](#projetos-destacados)
 - [Minha Trilha de Estudos Até o Momento](#minha-trilha-de-estudos-até-o-momento)
+  - [Introdução ao Mundo DEV](#introdução-ao-mundo-dev)
+  - [Escolhendo Minha Primeira Linguagem](#escolhendo-minha-primeira-linguagem)
+  - [Aprofundando no Mundo DEV](#aprofundando-no-mundo-dev)
+  - [Mundo PHP](#mundo-php)
+  - [Banco de Dados](#banco-de-dados)
+  - [Mundo PHP NVL 2](#mundo-php-nvl-2)
+  - [Mundo Laravel](#mundo-laravel)
 - [Atualmente](#atualmente)
 - [Chegou até aqui? Vamos nos conectar no LinkedIn!](#chegou-até-aqui-vamos-nos-conectar-no-linkedin)
 
