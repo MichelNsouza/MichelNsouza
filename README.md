@@ -4,6 +4,7 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou focad
 
 ## Sumário
 
+- [Repositorios Destacados](#repositorios-destacados)
 - [Projetos Destacados](#projetos-destacados)
 - [Minha Trilha de Estudos Até o Momento](#minha-trilha-de-estudos-até-o-momento)
   - [Introdução ao Mundo DEV](#introdução-ao-mundo-dev)
@@ -55,6 +56,12 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou focad
 - Outro desafio proposto por Gustavo Guanabara no curso de HTML5 e CSS3.
 
 ## Minha Trilha de Estudos Até o Momento
+
+## Repositorios Destacados
+
+### [Desenvolvimento_Web_1_Unime](https://github.com/MichelNsouza/Desenvolvimento_Web_1_Unime)
+### [Qualidade_de_Software_UNIME](https://github.com/MichelNsouza/Qualidade_de_Software_UNIME)
+### [Programação_Orientada_a_Objetos_2_UNIME](https://github.com/MichelNsouza/POO_2_UNIME)
 
 ### Introdução ao Mundo DEV
 
