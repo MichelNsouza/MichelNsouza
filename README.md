@@ -55,14 +55,14 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou focad
 - [Demo](https://michelnsouza.github.io/projetoCordel/)
 - Outro desafio proposto por Gustavo Guanabara no curso de HTML5 e CSS3.
 
-## Minha Trilha de Estudos Até o Momento
 
 ## Repositorios Destacados
-
 ### [Desenvolvimento_Web_1_Unime](https://github.com/MichelNsouza/Desenvolvimento_Web_1_Unime)
 ### [Qualidade_de_Software_UNIME](https://github.com/MichelNsouza/Qualidade_de_Software_UNIME)
 ### [Programação_Orientada_a_Objetos_2_UNIME](https://github.com/MichelNsouza/POO_2_UNIME)
 
+
+## Minha Trilha de Estudos Até o Momento
 ### Introdução ao Mundo DEV
 
 - Curso HTML5 e CSS3 (módulos 1 ao 4 do Curso em Vídeo)
