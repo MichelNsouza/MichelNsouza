@@ -133,6 +133,7 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou focad
 - Desenvolvendo uma API Rest com Laravel e MySQL (curso de férias off Faculdade)
 
 ### Atualmente
+- Desenvolvimento, comunicação e consumo de API's (Estudos independentes)
 -	Gerenciamento e Qualidade de Software (Faculdade)
 -	Programação em Banco de Dados (Faculdade)
 -	Programação Web (Faculdade)
