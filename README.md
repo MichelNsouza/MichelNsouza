@@ -25,8 +25,19 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou focad
 - Sistema para gerar currículos em PDF feito em Laravel.
 - Estilos em Bootstrap.
 - Deploy no Vercel, não armazena dados.
+
   
-### [CMS de Notícias](https://github.com/MichelNsouza/LaravelCMS)
+### [Rick And Morty Search](https://github.com/MichelNsouza/GeradorCV/)
+
+- [Demo](https://michelnsouza.github.io/atividade-complementar-web-1/)
+- Sistema para consumir a API The Rick and Morty 
+- FrontEnd: Bootstrap e AlpineJS
+- Backend: JavaScript
+- requisições HTTP: Axios.
+- Deploy no GitPages.
+
+
+- ### [CMS de Notícias](https://github.com/MichelNsouza/LaravelCMS)
 
 - [Demo](https://laravel-cms.vercel.app/)
 - Sistema de gerenciamento de notícias feito em Laravel.
