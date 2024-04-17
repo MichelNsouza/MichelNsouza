@@ -37,7 +37,7 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou focad
 - Deploy no GitPages.
 
 
-- ### [CMS de Notícias](https://github.com/MichelNsouza/LaravelCMS)
+### [CMS de Notícias](https://github.com/MichelNsouza/LaravelCMS)
 
 - [Demo](https://laravel-cms.vercel.app/)
 - Sistema de gerenciamento de notícias feito em Laravel.
