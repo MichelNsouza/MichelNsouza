@@ -24,7 +24,7 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou focad
 - [Demo](https://geradorcurriculo.vercel.app/)
 - Sistema para gerar currículos em PDF feito em Laravel.
 - Estilos em Bootstrap.
-- Deploy no Vercel, não armazena dados.
+- Deploy no Vercel.
 
   
 ### [Rick And Morty Search](https://github.com/MichelNsouza/GeradorCV/)
