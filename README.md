@@ -27,7 +27,7 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou focad
 - Deploy no Vercel.
 
   
-### [Rick And Morty Search](https://github.com/MichelNsouza/GeradorCV/)
+### [Rick And Morty Search](https://github.com/MichelNsouza/atividade-complementar-web-1)
 
 - [Demo](https://michelnsouza.github.io/atividade-complementar-web-1/)
 - Sistema para consumir a API The Rick and Morty 
