@@ -70,7 +70,7 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou focad
 - requisições HTTP: #.
 - Deploy #.
 
-# [Buraco de Freitas](https://github.com/MichelNsouza/Atividade3-web1)
+### [Buraco de Freitas](https://github.com/MichelNsouza/Atividade3-web1)
 
 - [Demo](https://michelnsouza.github.io/Atividade3-web1/)
 - Atividade feita em grupo pela disciplina de Desenvolvimento Web 1 no curso de BSI da UNIME.
