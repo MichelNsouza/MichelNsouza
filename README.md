@@ -70,6 +70,15 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou focad
 - requisições HTTP: #.
 - Deploy #.
 
+# [Buraco de Freitas](https://github.com/MichelNsouza/Atividade3-web1)
+
+- Atividade feita em grupo pela disciplina de Desenvolvimento Web 1 no curso de BSI da UNIME.
+- [Demo](https://michelnsouza.github.io/Consulta_API_Ibge/)
+- HTML5
+- CSS3
+- Deploy no GitPages
+
+  
 ## Repositorios Destacados
 ### [Desenvolvimento_Web_1_Unime](https://github.com/MichelNsouza/Desenvolvimento_Web_1_Unime)
 ### [Qualidade_de_Software_UNIME](https://github.com/MichelNsouza/Qualidade_de_Software_UNIME)
