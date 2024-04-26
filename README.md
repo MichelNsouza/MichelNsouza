@@ -5,7 +5,7 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou focad
 ## Sumário
 
 - [Projetos Destacados](#projetos-destacados)
-- [Projetos que colaborei](#projetos-colab)
+- [Projetos que colaborei](#Projetos-que-colaborei)
 - [Repositorios Destacados](#repositorios-destacados)
 - [Minha Trilha de Estudos Até o Momento](#minha-trilha-de-estudos-até-o-momento)
   - [Introdução ao Mundo DEV](#introdução-ao-mundo-dev)
