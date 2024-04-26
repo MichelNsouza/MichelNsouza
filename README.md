@@ -5,6 +5,7 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou focad
 ## Sumário
 
 - [Projetos Destacados](#projetos-destacados)
+- [Projetos que colaborei](#projetos-colab)
 - [Repositorios Destacados](#repositorios-destacados)
 - [Minha Trilha de Estudos Até o Momento](#minha-trilha-de-estudos-até-o-momento)
   - [Introdução ao Mundo DEV](#introdução-ao-mundo-dev)
@@ -18,7 +19,7 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou focad
 - [Chegou até aqui? Vamos nos conectar no LinkedIn!](#chegou-até-aqui-vamos-nos-conectar-no-linkedin)
 
 ## Projetos Destacados
-  
+
 ### [Gerador de Curriculo](https://github.com/MichelNsouza/GeradorCV/)
 
 - [Demo](https://geradorcurriculo.vercel.app/)
@@ -36,6 +37,14 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou focad
 - requisições HTTP: Axios.
 - Deploy no GitPages.
 
+### [Consulta Fipe](https://github.com/MichelNsouza/Consulta_API_TabelaFipe)
+
+- [Demo](https://michelnsouza.github.io/Consulta_API_TabelaFipe/)
+- Sistema para consumir API de Tabela Fipe
+- FrontEnd: AlpineJS
+- Backend: JavaScript
+- requisições HTTP: Axios.
+- Deploy no GitPages.
 
 ### [CMS de Notícias](https://github.com/MichelNsouza/LaravelCMS)
 
@@ -51,21 +60,15 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou focad
 - Estilos em Bootstrap.
 - Deploy no Vercel com DB PostgreSQL na Render.
 
-### Desafio UN1D3V Lanches
+## Projetos que colaborei
 
-- [Demo](https://michelnsouza.github.io/desafioUnidev/)
-- Replicação de uma tela de uma hamburgueria fictícia com HTML, CSS e JS.
+### [WallDreams](#)
 
-### Desafio 10 - Curso em Vídeo sobre Android
-
-- [Demo](https://michelnsouza.github.io/projetoAndroid/)
-- Desafio proposto por Gustavo Guanabara no curso de HTML5 e CSS3.
-
-### Desafio 12 - Curso em Vídeo de Cordel
-
-- [Demo](https://michelnsouza.github.io/projetoCordel/)
-- Outro desafio proposto por Gustavo Guanabara no curso de HTML5 e CSS3.
-
+- Descrição #
+- FrontEnd: VueJs 
+- Backend: #.
+- requisições HTTP: #.
+- Deploy #.
 
 ## Repositorios Destacados
 ### [Desenvolvimento_Web_1_Unime](https://github.com/MichelNsouza/Desenvolvimento_Web_1_Unime)
