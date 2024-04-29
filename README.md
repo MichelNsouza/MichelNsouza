@@ -28,9 +28,9 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou focad
 - Deploy no Vercel.
 
   
-### [Rick And Morty Search](https://github.com/MichelNsouza/atividade-complementar-web-1)
+### [Rick And Morty Search](https://github.com/MichelNsouza/RickAndMortySearch)
 
-- [Demo](https://michelnsouza.github.io/atividade-complementar-web-1/)
+- [Demo](https://michelnsouza.github.io/RickAndMortySearch/)
 - Sistema para consumir a API The Rick and Morty 
 - FrontEnd: Bootstrap e AlpineJS
 - Backend: JavaScript
