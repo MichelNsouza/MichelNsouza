@@ -15,7 +15,7 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou focad
   - [Banco de Dados](#banco-de-dados)
   - [Mundo PHP NVL 2](#mundo-php-nvl-2)
   - [Mundo Laravel](#mundo-laravel)
-- [Atualmente](#atualmente)
+- [Estudos Atualmente](#atualmente)
 - [Chegou até aqui? Vamos nos conectar no LinkedIn!](#chegou-até-aqui-vamos-nos-conectar-no-linkedin)
 
 ## Projetos Destacados
