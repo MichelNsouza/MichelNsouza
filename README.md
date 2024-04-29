@@ -72,7 +72,7 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou focad
 
 ### [Buraco de Freitas](https://github.com/MichelNsouza/Atividade3-web1)
 
-- [Demo](https://michelnsouza.github.io/Atividade3-web1/)
+- [Demo](https://michelnsouza.github.io/BuracoDeFreitas_Parcial1Web1Unime/)
 - Atividade feita em grupo pela disciplina de Desenvolvimento Web 1 no curso de BSI da UNIME.
 - HTML5
 - CSS3
@@ -80,8 +80,11 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou focad
 
   
 ## Repositorios Destacados
+
 ### [Desenvolvimento_Web_1_Unime](https://github.com/MichelNsouza/Desenvolvimento_Web_1_Unime)
+
 ### [Qualidade_de_Software_UNIME](https://github.com/MichelNsouza/Qualidade_de_Software_UNIME)
+
 ### [Programação_Orientada_a_Objetos_2_UNIME](https://github.com/MichelNsouza/POO_2_UNIME)
 
 
