@@ -64,11 +64,10 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou focad
 
 ### [WallDreams](https://github.com/MichelNsouza/walldreams)
 
-- Descrição #
-- FrontEnd: VueJs 
-- Backend: #.
-- requisições HTTP: #.
-- Deploy #.
+- É um projeto, proposto em ambiente academinco, que disponibiliza um plataforma para download de Wallpapers.
+- FrontEnd: VueJs, BootStrap
+- Backend: Python-FastAPI, BD MySql e SQLAlchemy como ORM.
+- Deploy: Em andamento.
 
 ### [Buraco de Freitas](https://github.com/MichelNsouza/Atividade3-web1)
 
