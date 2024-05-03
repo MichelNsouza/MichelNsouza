@@ -168,9 +168,14 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou focad
 ### Atualmente
 - Desenvolvimento, comunicação e consumo de API's (Estudos independentes)
 -	Gerenciamento e Qualidade de Software (Faculdade)
+  - Cypress.js
 -	Programação em Banco de Dados (Faculdade)
+  - MySql
 -	Programação Web (Faculdade)
--	Programação Orientada a Objetos II (Faculdade)	 
+  - Vue.js
+  - Alpine.js
+-	Programação Orientada a Objetos II (Faculdade)
+  - Java swing
 
 ## Chegou até aqui? Vamos nos conectar no LinkedIn!
 
