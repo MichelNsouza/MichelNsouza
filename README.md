@@ -64,7 +64,7 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou focad
 
 ### [WallDreams](https://github.com/MichelNsouza/walldreams)
 
-- É um projeto, proposto em ambiente academinco, que disponibiliza um plataforma para download de Wallpapers.
+- É um projeto, proposto em ambiente académico, que disponibiliza um plataforma para download de Wallpapers.
 - FrontEnd: VueJs, BootStrap
 - Backend: Python-FastAPI, BD MySql e SQLAlchemy como ORM.
 - Deploy: Em andamento.
