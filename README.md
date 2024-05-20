@@ -1,6 +1,6 @@
 # Olá, Mundo! 👋
 
-Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou focado em me torna um desenvolvedor fullstack, você pode acompanhar minha evolução aqui no GitHub!
+Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou omeçando minha jornada com PHP, mas meu maior objetivo é me tornar um programador completo, sem me prender, limitar ou me tornar fanático por tecnologias específicas, você pode acompanhar minha evolução aqui no GitHub!
 
 ## Sumário
 
