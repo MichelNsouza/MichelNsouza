@@ -170,14 +170,14 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou come�
 ### Atualmente
 - Desenvolvimento, comunicação e consumo de API's (Estudos independentes)
 -	Gerenciamento e Qualidade de Software (Faculdade)
-  - Cypress.js
+   Cypress.js
 -	Programação em Banco de Dados (Faculdade)
   - MySql
 -	Programação Web (Faculdade)
-  - Vue.js
-  - Alpine.js
+   Vue.js
+   Alpine.js
 -	Programação Orientada a Objetos II (Faculdade)
-  - Java swing
+   Java swing
 
 ## Chegou até aqui? Vamos nos conectar no LinkedIn!
 
