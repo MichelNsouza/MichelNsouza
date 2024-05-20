@@ -4,8 +4,8 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou focad
 
 ## Sumário
 
-- [Projetos Destacados](#projetos-destacados)
 - [Projetos que colaborei](#Projetos-que-colaborei)
+- [Projetos Destacados](#projetos-destacados)
 - [Repositorios Destacados](#repositorios-destacados)
 - [Minha Trilha de Estudos Até o Momento](#minha-trilha-de-estudos-até-o-momento)
   - [Introdução ao Mundo DEV](#introdução-ao-mundo-dev)
@@ -18,11 +18,29 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou focad
 - [Estudos Atualmente](#atualmente)
 - [Chegou até aqui? Vamos nos conectar no LinkedIn!](#chegou-até-aqui-vamos-nos-conectar-no-linkedin)
 
+
+## Projetos que colaborei
+
+### [WallDreams](https://github.com/MichelNsouza/walldreams)
+- [Deploy](#) em andamento.
+- Plataforma para download de Wallpapers.
+- FrontEnd: VueJs, Pinia, Vue-Router, Axios e BootStrap.
+- Backend: Python-FastAPI, BD MySql e SQLAlchemy como ORM.
+- Infra: AWS.
+
+### [Buraco de Freitas](https://github.com/MichelNsouza/Atividade3-web1)
+
+- [Deploy](https://michelnsouza.github.io/BuracoDeFreitas_Parcial1Web1Unime/)
+- Atividade feita em grupo pela disciplina de Desenvolvimento Web 1 no curso de BSI da UNIME.
+- HTML5
+- CSS3
+- Deploy no GitPages
+
 ## Projetos Destacados
 
 ### [Gerador de Curriculo](https://github.com/MichelNsouza/GeradorCV/)
 
-- [Demo](https://geradorcurriculo.vercel.app/)
+- [Deploy](https://geradorcurriculo.vercel.app/)
 - Sistema para gerar currículos em PDF feito em Laravel.
 - Estilos em Bootstrap.
 - Deploy no Vercel.
@@ -30,7 +48,7 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou focad
   
 ### [Rick And Morty Search](https://github.com/MichelNsouza/RickAndMortySearch)
 
-- [Demo](https://michelnsouza.github.io/RickAndMortySearch/)
+- [Deploy](https://michelnsouza.github.io/RickAndMortySearch/)
 - Sistema para consumir a API The Rick and Morty 
 - FrontEnd: Bootstrap e AlpineJS
 - Backend: JavaScript
@@ -39,7 +57,7 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou focad
 
 ### [Consulta Fipe](https://github.com/MichelNsouza/Consulta_API_TabelaFipe)
 
-- [Demo](https://michelnsouza.github.io/Consulta_API_TabelaFipe/)
+- [Deploy](https://michelnsouza.github.io/Consulta_API_TabelaFipe/)
 - Sistema para consumir API de Tabela Fipe
 - FrontEnd: AlpineJS
 - Backend: JavaScript
@@ -48,34 +66,19 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou focad
 
 ### [CMS de Notícias](https://github.com/MichelNsouza/LaravelCMS)
 
-- [Demo](https://laravel-cms.vercel.app/)
+- [Deploy](https://laravel-cms.vercel.app/)
 - Sistema de gerenciamento de notícias feito em Laravel.
 - Estilos em Bootstrap.
 - Deploy no Vercel com DB PostgreSQL na Render.
 
 ### [To-Do List](https://github.com/MichelNsouza/ToDo)
 
-- [Demo](https://to-do-list-michel.vercel.app/)
+- [Deploy](https://to-do-list-michel.vercel.app/)
 - CRUD clássico de lista de tarefas feito em Laravel.
 - Estilos em Bootstrap.
 - Deploy no Vercel com DB PostgreSQL na Render.
 
-## Projetos que colaborei
 
-### [WallDreams](https://github.com/MichelNsouza/walldreams)
-
-- É um projeto, proposto em ambiente académico, que disponibiliza um plataforma para download de Wallpapers.
-- FrontEnd: VueJs, BootStrap
-- Backend: Python-FastAPI, BD MySql e SQLAlchemy como ORM.
-- Deploy: Em andamento.
-
-### [Buraco de Freitas](https://github.com/MichelNsouza/Atividade3-web1)
-
-- [Demo](https://michelnsouza.github.io/BuracoDeFreitas_Parcial1Web1Unime/)
-- Atividade feita em grupo pela disciplina de Desenvolvimento Web 1 no curso de BSI da UNIME.
-- HTML5
-- CSS3
-- Deploy no GitPages
 
   
 ## Repositorios Destacados
