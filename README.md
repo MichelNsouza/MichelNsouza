@@ -5,7 +5,7 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou focad
 ## Sumário
 
 - [Projetos que colaborei](#Projetos-que-colaborei)
-- [Projetos Destacados](#projetos-destacados)
+- [Projetos individuais](#projetos-individuais)
 - [Repositorios Destacados](#repositorios-destacados)
 - [Minha Trilha de Estudos Até o Momento](#minha-trilha-de-estudos-até-o-momento)
   - [Introdução ao Mundo DEV](#introdução-ao-mundo-dev)
@@ -36,7 +36,7 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou focad
 - CSS3
 - Deploy no GitPages
 
-## Projetos Destacados
+## Projetos individuais
 
 ### [Gerador de Curriculo](https://github.com/MichelNsouza/GeradorCV/)
 
