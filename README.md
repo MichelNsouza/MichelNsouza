@@ -22,7 +22,7 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou come�
 ## Projetos que colaborei
 
 ### [WallDreams](https://github.com/MichelNsouza/walldreams)
-- [Deploy](#) em andamento.
+- [Deploy](http://ec2-18-229-159-118.sa-east-1.compute.amazonaws.com/)
 - Plataforma para download de Wallpapers.
 - FrontEnd: VueJs, Pinia, Vue-Router, Axios e BootStrap.
 - Backend: Python-FastAPI, BD MySql e SQLAlchemy como ORM.
