@@ -82,11 +82,9 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou come�
   
 ## Repositorios Destacados
 
-### [Desenvolvimento_Web_1_Unime](https://github.com/MichelNsouza/Desenvolvimento_Web_1_Unime)
+### [Desafios Beecrowd / URI](https://github.com/MichelNsouza/DesafiosBeecrowd)
 
-### [Qualidade_de_Software_UNIME](https://github.com/MichelNsouza/Qualidade_de_Software_UNIME)
-
-### [Programação_Orientada_a_Objetos_2_UNIME](https://github.com/MichelNsouza/POO_2_UNIME)
+### [Aulas UNIDEV](https://github.com/MichelNsouza/UN1D3V)
 
 
 ## Minha Trilha de Estudos Até o Momento
