@@ -35,7 +35,7 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou come�
 - CSS3
 - Deploy no GitPages
 
-## Projetos individuais
+## Projetos
 
 ### [Gerador de Curriculo](https://github.com/MichelNsouza/GeradorCV/)
 
