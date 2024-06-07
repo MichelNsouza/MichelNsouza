@@ -15,7 +15,7 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou come�
   - [Banco de Dados](#banco-de-dados)
   - [Mundo PHP NVL 2](#mundo-php-nvl-2)
   - [Mundo Laravel](#mundo-laravel)
-  - [Web, Testes e Api](#WEB-Testes-e-Api's)
+  - [Web, Testes e Api](#WEB-Testes-Api)
 - [Estudos Atualmente](#atualmente)
 - [Chegou até aqui? Vamos nos conectar no LinkedIn!](#chegou-até-aqui-vamos-nos-conectar-no-linkedin)
 
@@ -165,7 +165,7 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou come�
 - Laravel: validando formulários, usando sessões e definindo relacionamentos
 - Desenvolvendo uma API Rest com Laravel e MySQL (curso de férias off Faculdade)
 
-### WEB Testes e Api's
+### WEB Testes Api
 - Gerenciamento e Qualidade de Software (Faculdade)
   - Cypress.js
 - Programação em Banco de Dados (Faculdade)
