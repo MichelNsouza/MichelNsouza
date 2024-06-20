@@ -15,7 +15,8 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou come�
   - [Banco de Dados](#banco-de-dados)
   - [Mundo PHP NVL 2](#mundo-php-nvl-2)
   - [Mundo Laravel](#mundo-laravel)
-  - [Web, Testes e Api](#WEB-Testes-Api)
+  - [Web](#web)
+  - [Testes](#testes)
 - [Estudos Atualmente](#atualmente)
 - [Chegou até aqui? Vamos nos conectar no LinkedIn!](#chegou-até-aqui-vamos-nos-conectar-no-linkedin)
 
@@ -123,7 +124,8 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou come�
 - Git e GitHub: repositório, commit e versões
 - Linux I: conhecendo e utilizando o terminal
 - Programação Orientada a Objetos (Faculdade)
-
+- Programação Orientada a Objetos II (Faculdade)
+- 
 ### Mundo PHP
 - Algoritmos e Estrutura de Dados	(Faculdade)
 - Avançando com PHP: Arrays, Strings, Funções e Web
@@ -147,7 +149,8 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou come�
 - PostgreSQL: desenvolvendo com PL/pgSQL
 - PostgreSQL: Triggers, transações, erros e cursores
 - PostgreSQL: administração e otimização do banco
-
+- Programação em Banco de Dados (Faculdade)
+  
 ### Mundo PHP NVL 2
 
 - PHP Composer: Dependências, Autoload e Publicação
@@ -165,21 +168,21 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou come�
 - Laravel: validando formulários, usando sessões e definindo relacionamentos
 - Desenvolvendo uma API Rest com Laravel e MySQL (curso de férias off Faculdade)
 
-### WEB Testes Api
-- Gerenciamento e Qualidade de Software (Faculdade)
-  - Cypress.js
-- Programação em Banco de Dados (Faculdade)
-  - MySql
+### WEB
 - Programação Web (Faculdade)
   - Vue.js
   - Alpine.js
-- Programação Orientada a Objetos II (Faculdade)
-  - Java swing
-
+ 
+### Testes
+- Gerenciamento e Qualidade de Software (Faculdade)
+  - Cypress.js
+  - Testes API's
+- Testes unitarios e de integração (Estudos independentes)
 ### Atualmente 
 - Desenvolvimento, comunicação e consumo de API's (Estudos independentes)
-- Testes unitarios e de integração (Estudos independentes)
-
+- Docker (Estudos independentes)
+- Bootstrap (Estudos independentes)
+- SASS (Estudos independentes)
 
 ## Chegou até aqui? Vamos nos conectar no LinkedIn!
 
