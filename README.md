@@ -32,7 +32,7 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou come�
   -[Deploy](https://api-portfolio-michel-souza.vercel.app/api/api/projetos) 
 - Deploy de ambos no Vercel.
 
-### Gestão de Matriculas
+### Gestão de Matriculas (Em andamento)
 
 - Sistema Fullstack para gestão de matriculas de alunos.
 - Front-End em VUEjs.
