@@ -4,8 +4,8 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou come�
 
 ## Sumário
 
+- [Projetos Em Destaque](#Projetos-Em-Destaque)
 - [Projetos que colaborei](#Projetos-que-colaborei)
-- [Projetos individuais](#projetos-individuais)
 - [Repositorios Destacados](#repositorios-destacados)
 - [Minha Trilha de Estudos Até o Momento](#minha-trilha-de-estudos-até-o-momento)
   - [Introdução ao Mundo DEV](#introdução-ao-mundo-dev)
@@ -20,25 +20,29 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou come�
 - [Estudos Atualmente](#atualmente)
 - [Chegou até aqui? Vamos nos conectar no LinkedIn!](#chegou-até-aqui-vamos-nos-conectar-no-linkedin)
 
+## Projetos Em Destaque
 
-## Projetos que colaborei
+### Portfólio
+- Sistema Fullstack para gestão de meu portfólio :).
+- Front-End em VUEjs.
+  -[Repositorio](https://github.com/MichelNsouza/front.Portfolio)
+  -[Deploy](https://portfolio-michel-souza.vercel.app/) 
+- Back-End em Laravel.
+  -[Repositorio](https://github.com/MichelNsouza/api.Portfolio)
+  -[Deploy](https://api-portfolio-michel-souza.vercel.app/api/api/projetos) 
+- Deploy de ambos no Vercel.
 
-### [WallDreams](https://github.com/MichelNsouza/walldreams)
-- Plataforma para download de Wallpapers.
-- FrontEnd: VueJs, Pinia, Vue-Router, Axios e BootStrap.
-- Backend: Python-FastAPI, BD MySql e SQLAlchemy como ORM.
-- Infra: AWS.
+### Gestão de Matriculas
 
-### [Buraco de Freitas](https://github.com/MichelNsouza/Atividade3-web1)
-
-- [Deploy](https://michelnsouza.github.io/BuracoDeFreitas_Parcial1Web1Unime/)
-- Atividade feita em grupo pela disciplina de Desenvolvimento Web 1 no curso de BSI da UNIME.
-- HTML5
-- CSS3
-- Deploy no GitPages
-
-## Projetos
-
+- Sistema Fullstack para gestão de matriculas de alunos.
+- Front-End em VUEjs.
+  -[Repositorio](https://github.com/MichelNsouza/front.GerenciadorMatriculas)
+  -[Deploy](https://gerenciador-matriculas.vercel.app/) 
+- Back-End em Laravel.
+  -[Repositorio](https://github.com/MichelNsouza/api.GerenciadorMatriculas)
+  -[Deploy](https://api-gerenciador-matriculas.vercel.app/api/api/alunos) 
+- Deploy de ambos no Vercel.
+  
 ### [Gerador de Curriculo](https://github.com/MichelNsouza/GeradorCV/)
 
 - [Deploy](https://geradorcurriculo.vercel.app/)
@@ -65,23 +69,24 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou come�
 - requisições HTTP: Axios.
 - Deploy no GitPages.
 
-### [CMS de Notícias](https://github.com/MichelNsouza/LaravelCMS)
 
-- [Deploy](https://laravel-cms.vercel.app/)
-- Sistema de gerenciamento de notícias feito em Laravel.
-- Estilos em Bootstrap.
-- Deploy no Vercel com DB PostgreSQL na Render.
+## Projetos que colaborei
 
-### [To-Do List](https://github.com/MichelNsouza/ToDo)
+### [WallDreams](https://github.com/MichelNsouza/walldreams)
+- Plataforma para download de Wallpapers.
+- FrontEnd: VueJs, Pinia, Vue-Router, Axios e BootStrap.
+- Backend: Python-FastAPI, BD MySql e SQLAlchemy como ORM.
+- Infra: AWS.
 
-- [Deploy](https://to-do-list-michel.vercel.app/)
-- CRUD clássico de lista de tarefas feito em Laravel.
-- Estilos em Bootstrap.
-- Deploy no Vercel com DB PostgreSQL na Render.
+### [Buraco de Freitas](https://github.com/MichelNsouza/Atividade3-web1)
+
+- [Deploy](https://michelnsouza.github.io/BuracoDeFreitas_Parcial1Web1Unime/)
+- Atividade feita em grupo pela disciplina de Desenvolvimento Web 1 no curso de BSI da UNIME.
+- HTML5
+- CSS3
+- Deploy no GitPages
 
 
-
-  
 ## Repositorios Destacados
 
 ### [Desafios Beecrowd / URI](https://github.com/MichelNsouza/DesafiosBeecrowd)
