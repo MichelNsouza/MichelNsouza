@@ -25,30 +25,22 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou come�
 ### Portfólio
 - Sistema Fullstack para gestão de meu portfólio :).
 - Front-End em VUEjs.
-
-  -[Repositorio](https://github.com/MichelNsouza/front.Portfolio)
-  
-  -[Deploy](https://portfolio-michel-souza.vercel.app/) 
+  - [Repositorio](https://github.com/MichelNsouza/front.Portfolio)
+  - [Deploy](https://portfolio-michel-souza.vercel.app/) 
 - Back-End em Laravel.
-  
-  -[Repositorio](https://github.com/MichelNsouza/api.Portfolio)
-  
-  -[Deploy](https://api-portfolio-michel-souza.vercel.app/api/api/projetos) 
+  - [Repositorio](https://github.com/MichelNsouza/api.Portfolio)
+  - [Deploy](https://api-portfolio-michel-souza.vercel.app/api/api/projetos) 
 - Deploy de ambos no Vercel.
 
 ### Gestão de Matriculas
 
 - Sistema Fullstack para gestão de matriculas de alunos.
 - Front-End em VUEjs.
-  
-  -[Repositorio](https://github.com/MichelNsouza/front.GerenciadorMatriculas)
-  
-  -[Deploy](https://gerenciador-matriculas.vercel.app/) 
+  - [Repositorio](https://github.com/MichelNsouza/front.GerenciadorMatriculas)
+  - [Deploy](https://gerenciador-matriculas.vercel.app/) 
 - Back-End em Laravel.
-  
-  -[Repositorio](https://github.com/MichelNsouza/api.GerenciadorMatriculas)
-  
-  -[Deploy](https://api-gerenciador-matriculas.vercel.app/api/api/alunos) 
+  - [Repositorio](https://github.com/MichelNsouza/api.GerenciadorMatriculas)
+  - [Deploy](https://api-gerenciador-matriculas.vercel.app/api/api/alunos) 
 - Deploy de ambos no Vercel.
   
 ### [Gerador de Curriculo](https://github.com/MichelNsouza/GeradorCV/)
