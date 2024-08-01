@@ -25,10 +25,12 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou come�
 ### Portfólio
 - Sistema Fullstack para gestão de meu portfólio :).
 - Front-End em VUEjs.
+
   -[Repositorio](https://github.com/MichelNsouza/front.Portfolio)
   
   -[Deploy](https://portfolio-michel-souza.vercel.app/) 
 - Back-End em Laravel.
+  
   -[Repositorio](https://github.com/MichelNsouza/api.Portfolio)
   
   -[Deploy](https://api-portfolio-michel-souza.vercel.app/api/api/projetos) 
@@ -38,10 +40,12 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou come�
 
 - Sistema Fullstack para gestão de matriculas de alunos.
 - Front-End em VUEjs.
+  
   -[Repositorio](https://github.com/MichelNsouza/front.GerenciadorMatriculas)
   
   -[Deploy](https://gerenciador-matriculas.vercel.app/) 
 - Back-End em Laravel.
+  
   -[Repositorio](https://github.com/MichelNsouza/api.GerenciadorMatriculas)
   
   -[Deploy](https://api-gerenciador-matriculas.vercel.app/api/api/alunos) 
