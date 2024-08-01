@@ -6,7 +6,6 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou come�
 
 - [Projetos Em Destaque](#Projetos-Em-Destaque)
 - [Projetos que colaborei](#Projetos-que-colaborei)
-- [Repositorios Destacados](#repositorios-destacados)
 - [Minha Trilha de Estudos Até o Momento](#minha-trilha-de-estudos-até-o-momento)
   - [Introdução ao Mundo DEV](#introdução-ao-mundo-dev)
   - [Escolhendo Minha Primeira Linguagem](#escolhendo-minha-primeira-linguagem)
@@ -85,14 +84,6 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou come�
 - HTML5
 - CSS3
 - Deploy no GitPages
-
-
-## Repositorios Destacados
-
-### [Desafios Beecrowd / URI](https://github.com/MichelNsouza/DesafiosBeecrowd)
-
-### [Aulas UNIDEV](https://github.com/MichelNsouza/UN1D3V)
-
 
 ## Minha Trilha de Estudos Até o Momento
 ### Introdução ao Mundo DEV
