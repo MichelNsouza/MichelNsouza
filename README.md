@@ -174,11 +174,16 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou come�
   - Cypress.js
   - Testes API's
 - Testes unitarios e de integração (Estudos independentes)
+  
 ### Atualmente 
 - Desenvolvimento, comunicação e consumo de API's (Estudos independentes)
 - Docker (Estudos independentes)
 - Bootstrap (Estudos independentes)
 - SASS (Estudos independentes)
+- Auditoria de Sistemas (Faculdade)
+- Analise de Sistemas (Faculdade)
+- Programação web 2 (Faculdade)
+  - Java na web e Spring Boot
 
 ## Chegou até aqui? Vamos nos conectar no LinkedIn!
 
