@@ -4,7 +4,7 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou come�
 ## Sumário
 - [Projetos Em Destaque](#Projetos-Em-Destaque)
 - [Projetos que colaborei](#Projetos-que-colaborei)
-- [Minha Trilha de Estudos Até o Momento](#minha-trilha-de-estudos-até-o-momento)
+- [Minha Trilha de Estudos](#minha-trilha-de-estudos)
 - [Estudos Atualmente](#atualmente)
 - [Estatísticas do perfil](#Estatísticas-do-perfil)
 - [Chegou até aqui? Vamos nos conectar no LinkedIn!](#chegou-até-aqui-vamos-nos-conectar-no-linkedin)
@@ -74,7 +74,7 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou come�
 - CSS3
 - Deploy no GitPages
 
-## Minha Trilha de Estudos Até o Momento
+## Minha Trilha de Estudos
 
 ### Introdução ao Mundo DEV
 - Curso HTML5 e CSS3 (módulos 1 ao 4 do Curso em Vídeo)
