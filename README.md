@@ -187,6 +187,7 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou come�
 
 ## Estatísticas
 ![GitHub followers](https://img.shields.io/github/followers/MichelNsouza?label=Followers&style=social) ![GitHub stars](https://img.shields.io/github/stars/MichelNsouza?affiliations=OWNER%2CCOLLABORATOR&style=social)
+
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MichelNsouza&layout=compact&theme=radical)
 ![Michel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MichelNsouza&show_icons=true&theme=radical)
 ![Michel's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=MichelNsouza&theme=radical)
