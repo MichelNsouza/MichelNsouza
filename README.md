@@ -1,4 +1,4 @@
-# Olá, Mundo! 👋
+# Olá, Mundo! 
 
 Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou começando minha jornada com PHP, mas meu maior objetivo é me tornar um programador completo, sem me prender, limitar ou me tornar fanático por tecnologias específicas, você pode acompanhar minha evolução aqui no GitHub!
 
@@ -7,15 +7,15 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou come�
 - [Projetos Em Destaque](#Projetos-Em-Destaque)
 - [Projetos que colaborei](#Projetos-que-colaborei)
 - [Minha Trilha de Estudos Até o Momento](#minha-trilha-de-estudos-até-o-momento)
-  - [Introdução ao Mundo DEV](#introdução-ao-mundo-dev)
-  - [Escolhendo Minha Primeira Linguagem](#escolhendo-minha-primeira-linguagem)
-  - [Aprofundando no Mundo DEV](#aprofundando-no-mundo-dev)
-  - [Mundo PHP](#mundo-php)
-  - [Banco de Dados](#banco-de-dados)
-  - [Mundo PHP NVL 2](#mundo-php-nvl-2)
-  - [Mundo Laravel](#mundo-laravel)
-  - [Web](#web)
-  - [Testes](#testes)
+  - [Introdução ao Mundo DEV](#introdução-ao-mundo-dev)
+  - [Escolhendo Minha Primeira Linguagem](#escolhendo-minha-primeira-linguagem)
+  - [Aprofundando no Mundo DEV](#aprofundando-no-mundo-dev)
+  - [Mundo PHP](#mundo-php)
+  - [Banco de Dados](#banco-de-dados)
+  - [Mundo PHP NVL 2](#mundo-php-nvl-2)
+  - [Mundo Laravel](#mundo-laravel)
+  - [Web](#web)
+  - [Testes](#testes)
 - [Estudos Atualmente](#atualmente)
 - [Chegou até aqui? Vamos nos conectar no LinkedIn!](#chegou-até-aqui-vamos-nos-conectar-no-linkedin)
 
@@ -24,24 +24,24 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou come�
 ### Portfólio
 - Sistema Fullstack para gestão de meu portfólio :).
 - Front-End em VUEjs.
-  - [Repositorio](https://github.com/MichelNsouza/front.Portfolio)
-  - [Deploy](https://portfolio-michel-souza.vercel.app/) 
+  - [Repositorio](https://github.com/MichelNsouza/front.Portfolio)
+  - [Deploy](https://portfolio-michel-souza.vercel.app/) 
 - Back-End em Laravel.
-  - [Repositorio](https://github.com/MichelNsouza/api.Portfolio)
-  - [Deploy](https://api-portfolio-michel-souza.vercel.app/api/api/projetos) 
+  - [Repositorio](https://github.com/MichelNsouza/api.Portfolio)
+  - [Deploy](https://api-portfolio-michel-souza.vercel.app/api/api/projetos) 
 - Deploy de ambos no Vercel.
 
 ### Gestão de Matriculas
 
 - Sistema Fullstack para gestão de matriculas de alunos.
 - Front-End em VUEjs.
-  - [Repositorio](https://github.com/MichelNsouza/front.GerenciadorMatriculas)
-  - [Deploy](https://gerenciador-matriculas.vercel.app/) 
+  - [Repositorio](https://github.com/MichelNsouza/front.GerenciadorMatriculas)
+  - [Deploy](https://gerenciador-matriculas.vercel.app/) 
 - Back-End em Laravel.
-  - [Repositorio](https://github.com/MichelNsouza/api.GerenciadorMatriculas)
-  - [Deploy](https://api-gerenciador-matriculas.vercel.app/api/api/alunos) 
+  - [Repositorio](https://github.com/MichelNsouza/api.GerenciadorMatriculas)
+  - [Deploy](https://api-gerenciador-matriculas.vercel.app/api/api/alunos) 
 - Deploy de ambos no Vercel.
-  
+  
 ### [Gerador de Curriculo](https://github.com/MichelNsouza/GeradorCV/)
 
 - [Deploy](https://geradorcurriculo.vercel.app/)
@@ -49,7 +49,7 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou come�
 - Estilos em Bootstrap.
 - Deploy no Vercel.
 
-  
+  
 ### [Rick And Morty Search](https://github.com/MichelNsouza/RickAndMortySearch)
 
 - [Deploy](https://michelnsouza.github.io/RickAndMortySearch/)
@@ -99,7 +99,7 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou come�
 - HTML e CSS: Responsividade com mobile-first
 - Gestão de Projetos (Faculdade)
 -	Arquitetura e Organização de Computadores (Faculdade)
-  
+  
 ### Escolhendo Minha Primeira Linguagem
 - Lógica e Matemática Computacional	(Faculdade)
 - Sistemas Operacionais (Faculdade)
@@ -146,7 +146,7 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou come�
 - PostgreSQL: Triggers, transações, erros e cursores
 - PostgreSQL: administração e otimização do banco
 - Programação em Banco de Dados (Faculdade)
-  
+  
 ### Mundo PHP NVL 2
 
 - PHP Composer: Dependências, Autoload e Publicação
@@ -166,15 +166,15 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou come�
 
 ### WEB
 - Programação Web (Faculdade)
-  - Vue.js
-  - Alpine.js
- 
+  - Vue.js
+  - Alpine.js
+ 
 ### Testes
 - Gerenciamento e Qualidade de Software (Faculdade)
-  - Cypress.js
-  - Testes API's
+  - Cypress.js
+  - Testes API's
 - Testes unitarios e de integração (Estudos independentes)
-  
+  
 ### Atualmente 
 - Desenvolvimento, comunicação e consumo de API's (Estudos independentes)
 - Docker (Estudos independentes)
@@ -183,7 +183,18 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou come�
 - Auditoria de Sistemas (Faculdade)
 - Analise de Sistemas (Faculdade)
 - Programação web 2 (Faculdade)
-  - Java na web e Spring Boot
+  - Java na web e Spring Boot
+
+## Estatísticas
+![GitHub followers](https://img.shields.io/github/followers/MichelNsouza?label=Followers&style=social) ![GitHub stars](https://img.shields.io/github/stars/MichelNsouza?affiliations=OWNER%2CCOLLABORATOR&style=social)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MichelNsouza&layout=compact&theme=radical)
+![Michel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MichelNsouza&show_icons=true&theme=radical)
+![Michel's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=MichelNsouza&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MichelNsouza&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Gráfico de Atividade](https://activity-graph.herokuapp.com/graph?username=MichelNsouza&theme=github)
+![Contador de visitas](https://komarev.com/ghpvc/?username=MichelNsouza&label=Profile%20views&color=blue&style=flat)
+
 
 ## Chegou até aqui? Vamos nos conectar no LinkedIn!
 
