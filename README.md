@@ -17,6 +17,7 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou come�
   - [Web](#web)
   - [Testes](#testes)
 - [Estudos Atualmente](#atualmente)
+- [Estatísticas](#Estatísticas)
 - [Chegou até aqui? Vamos nos conectar no LinkedIn!](#chegou-até-aqui-vamos-nos-conectar-no-linkedin)
 
 ## Projetos Em Destaque
@@ -32,7 +33,6 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou come�
 - Deploy de ambos no Vercel.
 
 ### Gestão de Matriculas
-
 - Sistema Fullstack para gestão de matriculas de alunos.
 - Front-End em VUEjs.
   - [Repositorio](https://github.com/MichelNsouza/front.GerenciadorMatriculas)
@@ -41,17 +41,16 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou come�
   - [Repositorio](https://github.com/MichelNsouza/api.GerenciadorMatriculas)
   - [Deploy](https://api-gerenciador-matriculas.vercel.app/api/api/alunos) 
 - Deploy de ambos no Vercel.
-  
-### [Gerador de Curriculo](https://github.com/MichelNsouza/GeradorCV/)
 
+### Gerador de Curriculo
+- [Repositorio](https://github.com/MichelNsouza/GeradorCV/)
 - [Deploy](https://geradorcurriculo.vercel.app/)
 - Sistema para gerar currículos em PDF feito em Laravel.
 - Estilos em Bootstrap.
 - Deploy no Vercel.
 
-  
-### [Rick And Morty Search](https://github.com/MichelNsouza/RickAndMortySearch)
-
+### Rick And Morty Search
+- [Repositorio](https://github.com/MichelNsouza/RickAndMortySearch)
 - [Deploy](https://michelnsouza.github.io/RickAndMortySearch/)
 - Sistema para consumir a API The Rick and Morty 
 - FrontEnd: Bootstrap e AlpineJS
@@ -59,8 +58,8 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou come�
 - requisições HTTP: Axios.
 - Deploy no GitPages.
 
-### [Consulta Fipe](https://github.com/MichelNsouza/Consulta_API_TabelaFipe)
-
+### Consulta Fipe
+- [Repositorio](https://github.com/MichelNsouza/Consulta_API_TabelaFipe)
 - [Deploy](https://michelnsouza.github.io/Consulta_API_TabelaFipe/)
 - Sistema para consumir API de Tabela Fipe
 - FrontEnd: AlpineJS
@@ -68,17 +67,18 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou come�
 - requisições HTTP: Axios.
 - Deploy no GitPages.
 
-
 ## Projetos que colaborei
 
-### [WallDreams](https://github.com/MichelNsouza/walldreams)
+### WallDreams
+- [Repositorio](https://github.com/MichelNsouza/walldreams)
+- [Deploy desativado](#)
 - Plataforma para download de Wallpapers.
 - FrontEnd: VueJs, Pinia, Vue-Router, Axios e BootStrap.
 - Backend: Python-FastAPI, BD MySql e SQLAlchemy como ORM.
 - Infra: AWS.
 
-### [Buraco de Freitas](https://github.com/MichelNsouza/Atividade3-web1)
-
+### Buraco de Freitas
+- [Repositorio](https://github.com/MichelNsouza/Atividade3-web1)
 - [Deploy](https://michelnsouza.github.io/BuracoDeFreitas_Parcial1Web1Unime/)
 - Atividade feita em grupo pela disciplina de Desenvolvimento Web 1 no curso de BSI da UNIME.
 - HTML5
@@ -86,8 +86,8 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou come�
 - Deploy no GitPages
 
 ## Minha Trilha de Estudos Até o Momento
-### Introdução ao Mundo DEV
 
+### Introdução ao Mundo DEV
 - Curso HTML5 e CSS3 (módulos 1 ao 4 do Curso em Vídeo)
 - Lógica de programação com JavaScript
 - Arquitetura de computadores
@@ -113,7 +113,6 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou come�
 - PHP: conceitos, lidando com dados, loops e mais
 
 ### Aprofundando no Mundo DEV
-
 - Windows Prompt: utilizando o CMD
 - Linux Onboarding: usando a CLI de uma forma rápida e prática
 - HTTP: Entendendo a web por baixo dos panos
@@ -121,7 +120,7 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou come�
 - Linux I: conhecendo e utilizando o terminal
 - Programação Orientada a Objetos (Faculdade)
 - Programação Orientada a Objetos II (Faculdade)
-- 
+
 ### Mundo PHP
 - Algoritmos e Estrutura de Dados	(Faculdade)
 - Avançando com PHP: Arrays, Strings, Funções e Web
@@ -148,7 +147,6 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou come�
 - Programação em Banco de Dados (Faculdade)
   
 ### Mundo PHP NVL 2
-
 - PHP Composer: Dependências, Autoload e Publicação
 - PHP e PDO: trabalhando com bancos de dados
 - PHP e MySQL: criando sua primeira aplicação web
@@ -157,7 +155,6 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou come�
 - PHP na Web: aplicando boas práticas e PSRs
 
 ### Mundo Laravel
-
 - Laravel: criando uma aplicação com MVC
 - Acampamento Dev: Laravel To-Do List
 - Acampamento Dev: Laravel Gerenciamento de Notícias
@@ -187,16 +184,18 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou come�
 
 ## Estatísticas
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MichelNsouza&layout=compact&theme=radical)
+
 ![Michel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MichelNsouza&show_icons=true&theme=radical)
+
 ![Michel's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=MichelNsouza&theme=radical)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=MichelNsouza&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Gráfico de Atividade](https://activity-graph.herokuapp.com/graph?username=MichelNsouza&theme=github)
 
-
 ![GitHub followers](https://img.shields.io/github/followers/MichelNsouza?label=Followers&style=social) ![GitHub stars](https://img.shields.io/github/stars/MichelNsouza?affiliations=OWNER%2CCOLLABORATOR&style=social)![Contador de visitas](https://komarev.com/ghpvc/?username=MichelNsouza&label=Profile%20views&color=blue&style=flat)
-## Chegou até aqui? Vamos nos conectar no LinkedIn!
 
+## Chegou até aqui? Vamos nos conectar no LinkedIn!
 Você pode me encontrar em [Michel Souza](https://www.linkedin.com/in/michel-n-souza/).
 
 Lembre-se: "Conhecimento sem visão só te faz mais um burro convicto!".
