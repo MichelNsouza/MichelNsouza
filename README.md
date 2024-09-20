@@ -1,9 +1,7 @@
 # Olá, Mundo! 
-
 Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou começando minha jornada com PHP, mas meu maior objetivo é me tornar um programador completo, sem me prender, limitar ou me tornar fanático por tecnologias específicas, você pode acompanhar minha evolução aqui no GitHub!
 
 ## Sumário
-
 - [Projetos Em Destaque](#Projetos-Em-Destaque)
 - [Projetos que colaborei](#Projetos-que-colaborei)
 - [Minha Trilha de Estudos Até o Momento](#minha-trilha-de-estudos-até-o-momento)
@@ -17,7 +15,7 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou come�
   - [Web](#web)
   - [Testes](#testes)
 - [Estudos Atualmente](#atualmente)
-- [Estatísticas](#Estatísticas)
+- [Estatísticas do perfil](#Estatísticas-do-perfil)
 - [Chegou até aqui? Vamos nos conectar no LinkedIn!](#chegou-até-aqui-vamos-nos-conectar-no-linkedin)
 
 ## Projetos Em Destaque
@@ -182,7 +180,7 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou come�
 - Programação web 2 (Faculdade)
   - Java na web e Spring Boot
 
-## Estatísticas
+## Estatísticas do perfil
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MichelNsouza&layout=compact&theme=radical)
 
 ![Michel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MichelNsouza&show_icons=true&theme=radical)
@@ -190,8 +188,6 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou come�
 ![Michel's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=MichelNsouza&theme=radical)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MichelNsouza&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-![Gráfico de Atividade](https://activity-graph.herokuapp.com/graph?username=MichelNsouza&theme=github)
 
 ![GitHub followers](https://img.shields.io/github/followers/MichelNsouza?label=Followers&style=social) ![GitHub stars](https://img.shields.io/github/stars/MichelNsouza?affiliations=OWNER%2CCOLLABORATOR&style=social)![Contador de visitas](https://komarev.com/ghpvc/?username=MichelNsouza&label=Profile%20views&color=blue&style=flat)
 
