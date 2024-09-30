@@ -170,7 +170,9 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou come�
     * Java na web e Spring Boot
 
 ## Estatísticas do perfil
+
 (não faz sentido a % de java ai rsrs)
+
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MichelNsouza&layout=compact&theme=radical)
 
 ![Michel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MichelNsouza&show_icons=true&theme=radical)
