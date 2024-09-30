@@ -14,21 +14,21 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou come�
 ### Portfólio
 - Sistema Fullstack para gestão de meu portfólio :).
 - Front-End em VUEjs.
-    [Repositorio](https://github.com/MichelNsouza/front.Portfolio).
-    [Deploy](https://portfolio-michel-souza.vercel.app/).
+    * [Repositorio](https://github.com/MichelNsouza/front.Portfolio).
+    * [Deploy](https://portfolio-michel-souza.vercel.app/).
 - Back-End em Laravel.
-    [Repositorio](https://github.com/MichelNsouza/api.Portfolio).
-    [Deploy](https://api-portfolio-michel-souza.vercel.app/api/api/projetos).
+    * [Repositorio](https://github.com/MichelNsouza/api.Portfolio).
+    * [Deploy](https://api-portfolio-michel-souza.vercel.app/api/api/projetos).
 - Deploy de ambos no Vercel.
 
 ### Gestão de Matriculas
 - Sistema Fullstack para gestão de matriculas de alunos.
 - Front-End em VUEjs.
-    [Repositorio](https://github.com/MichelNsouza/front.GerenciadorMatriculas).
-    [Deploy](https://gerenciador-matriculas.vercel.app/).
+   * [Repositorio](https://github.com/MichelNsouza/front.GerenciadorMatriculas).
+   * [Deploy](https://gerenciador-matriculas.vercel.app/).
 - Back-End em Laravel.
-    [Repositorio](https://github.com/MichelNsouza/api.GerenciadorMatriculas).
-    [Deploy](https://api-gerenciador-matriculas.vercel.app/api/api/alunos). 
+  *  [Repositorio](https://github.com/MichelNsouza/api.GerenciadorMatriculas).
+   * [Deploy](https://api-gerenciador-matriculas.vercel.app/api/api/alunos). 
 - Deploy de ambos no Vercel.
 
 ### Gerador de Curriculo
@@ -150,15 +150,13 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou come�
 - Laravel: validando formulários, usando sessões e definindo relacionamentos
 - Desenvolvendo uma API Rest com Laravel e MySQL (curso de férias off Faculdade)
 
-### WEB
+### WEB e Testes
 - Programação Web (Faculdade)
-  - Vue.js
-  - Alpine.js
- 
-### Testes
+    * Vue.js
+    * Alpine.js
 - Gerenciamento e Qualidade de Software (Faculdade)
-  - Cypress.js
-  - Testes API's
+    * Cypress.js
+    * Testes API's
 - Testes unitarios e de integração (Estudos independentes)
   
 ### Atualmente 
@@ -168,8 +166,8 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou come�
 - SASS (Estudos independentes)
 - Auditoria de Sistemas (Faculdade)
 - Analise de Sistemas (Faculdade)
-- Programação web 2 (Faculdade)
-  - Java na web e Spring Boot
+- Programação web 2 (Faculdade) 
+    * Java na web e Spring Boot
 
 ## Estatísticas do perfil
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MichelNsouza&layout=compact&theme=radical)
