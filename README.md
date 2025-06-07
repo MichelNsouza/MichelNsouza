@@ -1,5 +1,9 @@
 # Olá, Mundo! 
-Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou começando minha jornada com PHP, mas meu maior objetivo é me tornar um programador completo, sem me prender, limitar ou me tornar fanático por tecnologias específicas, você pode acompanhar minha evolução aqui no GitHub!
+Atualmente, sou estudante de Bacharelado em Sistemas de Informação e atuo como estagiário na área de desenvolvimento. Minha jornada na programação começou com estudos em PHP, e hoje trabalho com Vue.js e Java.
+Tenho como objetivo me tornar um desenvolvedor completo, alguém que não se prende a uma única tecnologia, mas que busca aprender continuamente, sem fanatismo ou limitações.
+
+Você pode acompanhar minha evolução e projetos aqui no GitHub!
+
 
 ## Sumário
 - [Projetos Em Destaque](#Projetos-Em-Destaque)
@@ -75,6 +79,7 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou come�
 - Deploy no GitPages
 
 ## Minha Trilha de Estudos
+Tentei pôr em ordem cronologica
 
 ### Introdução ao Mundo DEV
 - Curso HTML5 e CSS3 (módulos 1 ao 4 do Curso em Vídeo)
@@ -150,25 +155,52 @@ Atualmente, estou cursando Bacharelado em Sistemas de Informação e estou come�
 - Laravel: validando formulários, usando sessões e definindo relacionamentos
 - Desenvolvendo uma API Rest com Laravel e MySQL (curso de férias off Faculdade)
 
-### WEB e Testes
-- Programação Web (Faculdade)
+### Semestres finais da faculdade
+(Matérias favoritas, relacionadas diretamente a código)
+- Programação Web I
     * Vue.js
     * Alpine.js
-- Gerenciamento e Qualidade de Software (Faculdade)
+- Gerenciamento e Qualidade de Software
     * Cypress.js
     * Testes API's
-- Testes unitarios e de integração (Estudos independentes)
-  
-### Atualmente 
-- Desenvolvimento, comunicação e consumo de API's (Estudos independentes)
-- Docker (Estudos independentes)
-- Bootstrap (Estudos independentes)
-- SASS (Estudos independentes)
-- Auditoria de Sistemas (Faculdade)
-- Analise de Sistemas (Faculdade)
-- Programação web 2 (Faculdade) 
-    * Java na web e Spring Boot
+- Programação Orientada a Objetos II
+    * JAVA
+- Programação Web II
+    * JAVA (API Luggy Car)
+- Gerenciamento e Desenvolvimento em Banco de Dados
+- Desenvolvimento Mobile
 
+### Estágio 
+(Pequenos Projetos práticos e/ou apresentação teorica)
+- Docker, Docker Compose
+- SOLID
+- Arquitetura de Software (MVC, Domain-centric etc)
+- Node
+- Sass
+- Tailwind
+- Typescript
+- Código Limpo (Principios)
+- Testes Unitários
+- Testes de integração
+- .NET (Entity Framework, ASP.NET)
+- React js ( Redux toolkit )
+- NestJS
+- React native (Puro)
+- Android (Java)
+- GraphQL
+- Microsserviços
+- Microfrontend
+- BFF
+- Escalabilidade horizontal
+- Kafka
+- vue js (PWA)
+- Arquitetura hexagonal
+
+  
+### Atualmente 
+- Melhorando skills com JAVA e JS(focado no vuejs)
+- Nelhorando skills de comunicação
+  
 ## Estatísticas do perfil
 
 (não faz sentido a % de java ai rsrs)
