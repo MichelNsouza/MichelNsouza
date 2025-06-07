@@ -10,7 +10,6 @@ Você pode acompanhar minha evolução e projetos aqui no GitHub!
 - [Projetos que colaborei](#Projetos-que-colaborei)
 - [Minha Trilha de Estudos](#minha-trilha-de-estudos)
 - [Estudos Atualmente](#atualmente)
-- [Estatísticas do perfil](#Estatísticas-do-perfil)
 - [Chegou até aqui? Vamos nos conectar no LinkedIn!](#chegou-até-aqui-vamos-nos-conectar-no-linkedin)
 
 ## Projetos Em Destaque
