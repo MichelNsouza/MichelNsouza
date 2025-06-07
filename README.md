@@ -61,6 +61,11 @@ Você pode acompanhar minha evolução e projetos aqui no GitHub!
 
 ## Projetos que colaborei
 
+### LuggyCar
+- [Repositorio](https://github.com/MichelNsouza/LuggyCar)
+- api para gestão de aluguel de carros.
+- Backend: java com spring boot, MySQL e REDIS
+  
 ### WallDreams
 - [Repositorio](https://github.com/MichelNsouza/walldreams)
 - [Deploy desativado](#)
