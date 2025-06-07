@@ -169,7 +169,7 @@ Tentei pôr em ordem cronologica
 - Gerenciamento e Desenvolvimento em Banco de Dados
 - Desenvolvimento Mobile
 
-### Estágio 
+### Plano de Formação do Estágio 
 (Pequenos Projetos práticos e/ou apresentação teorica)
 - Docker, Docker Compose
 - SOLID
