@@ -201,9 +201,6 @@ Tentei pôr em ordem cronologica
 - Retornando estudos de PHP
 - Nelhorando skills de comunicação
 
-  
-![GitHub followers](https://img.shields.io/github/followers/MichelNsouza?label=Followers&style=social) ![GitHub stars](https://img.shields.io/github/stars/MichelNsouza?affiliations=OWNER%2CCOLLABORATOR&style=social)![Contador de visitas](https://komarev.com/ghpvc/?username=MichelNsouza&label=Profile%20views&color=blue&style=flat)
-
 ## Chegou até aqui? Vamos nos conectar no LinkedIn!
 Você pode me encontrar em [Michel Souza](https://www.linkedin.com/in/michel-n-souza/).
 
@@ -214,3 +211,6 @@ Você pode me encontrar em [Michel Souza](https://www.linkedin.com/in/michel-n-s
 Menos um na estatística homicida do estado  
 Menos um negro que não passou dos 18 anos  
 Eu sou menos um na estatística" ~ LEALL
+
+![GitHub followers](https://img.shields.io/github/followers/MichelNsouza?label=Followers&style=social) ![GitHub stars](https://img.shields.io/github/stars/MichelNsouza?affiliations=OWNER%2CCOLLABORATOR&style=social)![Contador de visitas](https://komarev.com/ghpvc/?username=MichelNsouza&label=Profile%20views&color=blue&style=flat)
+
