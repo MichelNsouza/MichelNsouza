@@ -207,4 +207,9 @@ Tentei pôr em ordem cronologica
 ## Chegou até aqui? Vamos nos conectar no LinkedIn!
 Você pode me encontrar em [Michel Souza](https://www.linkedin.com/in/michel-n-souza/).
 
-Lembre-se: "Conhecimento sem visão só te faz mais um burro convicto!".
+Lembre-se: "Conhecimento sem visão só te faz mais um burro convicto!" ~ Cesar MC
+
+"Eu sou menos um na estatística  
+Menos um na estatística homicida do estado  
+Menos um negro que não passou dos 18 anos  
+Eu sou menos um na estatística" ~ LEALL
