@@ -199,20 +199,10 @@ Tentei pôr em ordem cronologica
   
 ### Atualmente 
 - Melhorando skills com JAVA e JS(focado no vuejs)
+- Retornando estudos de PHP
 - Nelhorando skills de comunicação
+
   
-## Estatísticas do perfil
-
-(não faz sentido a % de java ai rsrs)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MichelNsouza&layout=compact&theme=radical)
-
-![Michel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MichelNsouza&show_icons=true&theme=radical)
-
-![Michel's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=MichelNsouza&theme=radical)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=MichelNsouza&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 ![GitHub followers](https://img.shields.io/github/followers/MichelNsouza?label=Followers&style=social) ![GitHub stars](https://img.shields.io/github/stars/MichelNsouza?affiliations=OWNER%2CCOLLABORATOR&style=social)![Contador de visitas](https://komarev.com/ghpvc/?username=MichelNsouza&label=Profile%20views&color=blue&style=flat)
 
 ## Chegou até aqui? Vamos nos conectar no LinkedIn!
