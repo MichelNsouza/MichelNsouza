@@ -199,7 +199,7 @@ Tentei pôr em ordem cronologica
 ### Atualmente 
 - Melhorando skills com JAVA e JS(focado no vuejs)
 - Retornando estudos de PHP
-- Nelhorando skills de comunicação
+- Melhorando skills de comunicação
 
 ## Chegou até aqui? Vamos nos conectar no LinkedIn!
 Você pode me encontrar em [Michel Souza](https://www.linkedin.com/in/michel-n-souza/).
