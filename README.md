@@ -41,15 +41,6 @@ Você pode acompanhar minha evolução e projetos aqui no GitHub!
 - Estilos em Bootstrap.
 - Deploy no Vercel.
 
-### Rick And Morty Search
-- [Repositorio](https://github.com/MichelNsouza/RickAndMortySearch).
-- [Deploy](https://michelnsouza.github.io/RickAndMortySearch/).
-- Sistema para consumir a API The Rick and Morty 
-- FrontEnd: Bootstrap e AlpineJS
-- Backend: JavaScript
-- requisições HTTP: Axios.
-- Deploy no GitPages.
-
 ### Consulta Fipe
 - [Repositorio](https://github.com/MichelNsouza/Consulta_API_TabelaFipe)
 - [Deploy](https://michelnsouza.github.io/Consulta_API_TabelaFipe/)
