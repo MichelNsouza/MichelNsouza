@@ -41,15 +41,6 @@ Você pode acompanhar minha evolução e projetos aqui no GitHub!
 - Estilos em Bootstrap.
 - Deploy no Vercel.
 
-### Consulta Fipe
-- [Repositorio](https://github.com/MichelNsouza/Consulta_API_TabelaFipe)
-- [Deploy](https://michelnsouza.github.io/Consulta_API_TabelaFipe/)
-- Sistema para consumir API de Tabela Fipe
-- FrontEnd: AlpineJS
-- Backend: JavaScript
-- requisições HTTP: Axios.
-- Deploy no GitPages.
-
 ## Projetos que colaborei
 
 ### LuggyCar
@@ -59,19 +50,10 @@ Você pode acompanhar minha evolução e projetos aqui no GitHub!
   
 ### WallDreams
 - [Repositorio](https://github.com/MichelNsouza/walldreams)
-- [Deploy desativado](#)
 - Plataforma para download de Wallpapers.
 - FrontEnd: VueJs, Pinia, Vue-Router, Axios e BootStrap.
 - Backend: Python-FastAPI, BD MySql e SQLAlchemy como ORM.
 - Infra: AWS.
-
-### Buraco de Freitas
-- [Repositorio](https://github.com/MichelNsouza/Atividade3-web1)
-- [Deploy](https://michelnsouza.github.io/BuracoDeFreitas_Parcial1Web1Unime/)
-- Atividade feita em grupo pela disciplina de Desenvolvimento Web 1 no curso de BSI da UNIME.
-- HTML5
-- CSS3
-- Deploy no GitPages
 
 ## Minha Trilha de Estudos
 Tentei pôr em ordem cronologica
@@ -150,7 +132,7 @@ Tentei pôr em ordem cronologica
 - Laravel: validando formulários, usando sessões e definindo relacionamentos
 - Desenvolvendo uma API Rest com Laravel e MySQL (curso de férias off Faculdade)
 
-### Semestres finais da faculdade
+### Semestres finais da faculdade (em andamento)
 (Matérias favoritas, relacionadas diretamente a código)
 - Programação Web I
     * Vue.js
@@ -165,7 +147,7 @@ Tentei pôr em ordem cronologica
 - Gerenciamento e Desenvolvimento em Banco de Dados
 - Desenvolvimento Mobile
 
-### Plano de Formação do Estágio 
+### Plano de Formação do Estágio NewM/Topaz - Venture Stefanini
 (Pequenos Projetos práticos e/ou apresentação teorica)
 - Docker, Docker Compose
 - SOLID
@@ -188,14 +170,13 @@ Tentei pôr em ordem cronologica
 - BFF
 - Escalabilidade horizontal
 - Kafka
-- vue js (PWA)
+- vue js PWA e SPA
 - Arquitetura hexagonal
 
-  
 ### Atualmente 
-- Melhorando skills com JAVA e JS(focado no vuejs)
-- Retornando estudos de PHP
-- Melhorando skills de comunicação
+- Melhorando skills com JAVA e JS (focado no vuejs)
+- Retornando foco de estudos em PHP
+- Trabalhando skills de comunicação
 
 ## Chegou até aqui? Vamos nos conectar no LinkedIn!
 Você pode me encontrar em [Michel Souza](https://www.linkedin.com/in/michel-n-souza/).
