@@ -2,7 +2,7 @@
 Atualmente, sou estudante de Bacharelado em Sistemas de Informação e atuo como estagiário na área de desenvolvimento. Minha jornada na programação começou com estudos em PHP, e hoje trabalho com Vue.js e Java.
 Tenho como objetivo me tornar um desenvolvedor completo, alguém que não se prende a uma única tecnologia, mas que busca aprender continuamente, sem fanatismo ou limitações.
 
-Você pode acompanhar minha evolução e projetos aqui no GitHub!
+Você pode acompanhar minha evolução e projetos aqui, quase tudo que eu estudo eu tento subir aqui!
 
 
 ## Sumário
