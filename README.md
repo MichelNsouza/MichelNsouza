@@ -18,21 +18,15 @@ Você pode acompanhar minha evolução e projetos aqui, quase tudo que eu estudo
 - Sistema Fullstack para gestão de meu portfólio :).
 - Front-End em VUEjs.
     * [Repositorio](https://github.com/MichelNsouza/front.Portfolio).
-    * [Deploy](https://portfolio-michel-souza.vercel.app/).
 - Back-End em Laravel.
     * [Repositorio](https://github.com/MichelNsouza/api.Portfolio).
-    * [Deploy](https://api-portfolio-michel-souza.vercel.app/api/api/projetos).
-- Deploy de ambos no Vercel.
 
 ### Gestão de Matriculas
 - Sistema Fullstack para gestão de matriculas de alunos.
 - Front-End em VUEjs.
    * [Repositorio](https://github.com/MichelNsouza/front.GerenciadorMatriculas).
-   * [Deploy](https://gerenciador-matriculas.vercel.app/).
 - Back-End em Laravel.
   *  [Repositorio](https://github.com/MichelNsouza/api.GerenciadorMatriculas).
-   * [Deploy](https://api-gerenciador-matriculas.vercel.app/api/api/alunos). 
-- Deploy de ambos no Vercel.
 
 ### Gerador de Curriculo
 - [Repositorio](https://github.com/MichelNsouza/GeradorCV/).
@@ -174,8 +168,7 @@ Tentei pôr em ordem cronologica
 - Arquitetura hexagonal
 
 ### Atualmente 
-- Melhorando skills com JAVA e JS (focado no vuejs)
-- Retornando foco de estudos em PHP
+- Melhorando skills com JAVA e JS (focado no vuejs e spring)
 - Trabalhando skills de comunicação
 
 ## Chegou até aqui? Vamos nos conectar no LinkedIn!
@@ -183,11 +176,6 @@ Você pode me encontrar em [Michel Souza](https://www.linkedin.com/in/michel-n-s
 
 ## 
 "Conhecimento sem visão só te faz mais um burro convicto!" ~ Cesar MC
-
-"Eu sou menos um na estatística  
-Menos um na estatística homicida do estado  
-Menos um negro que não passou dos 18 anos  
-Eu sou menos um na estatística" ~ LEALL
 
 ![GitHub followers](https://img.shields.io/github/followers/MichelNsouza?label=Followers&style=social) ![GitHub stars](https://img.shields.io/github/stars/MichelNsouza?affiliations=OWNER%2CCOLLABORATOR&style=social)![Contador de visitas](https://komarev.com/ghpvc/?username=MichelNsouza&label=Profile%20views&color=blue&style=flat)
 
