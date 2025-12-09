@@ -1,5 +1,5 @@
 # Olá, Mundo! 
-Atualmente, sou estudante de Bacharelado em Sistemas de Informação e atuo como estagiário na área de desenvolvimento. Minha jornada na programação começou com estudos em PHP, e hoje trabalho com Vue.js e Java.
+Atualmente, atuo como estagiário na área de desenvolvimento e sou formado Bacharel em Sistemas de Informação. Minha jornada na programação começou com estudos em PHP, e hoje trabalho com Vue.js e Java.
 Tenho como objetivo me tornar um desenvolvedor completo, alguém que não se prende a uma única tecnologia, mas que busca aprender continuamente, sem fanatismo ou limitações.
 
 Você pode acompanhar minha evolução e projetos aqui, quase tudo que eu estudo eu tento subir aqui!
@@ -22,13 +22,6 @@ Você pode acompanhar minha evolução e projetos aqui, quase tudo que eu estudo
 - Back-End em Laravel.
     * [Deploy](https://api.michelsouzadev.com.br/api/projetos).
     * [Repositorio](https://github.com/MichelNsouza/api.Portfolio).
-
-### Gestão de Matriculas
-- Sistema Fullstack para gestão de matriculas de alunos.
-- Front-End em VUEjs.
-   * [Repositorio](https://github.com/MichelNsouza/front.GerenciadorMatriculas).
-- Back-End em Laravel.
-  *  [Repositorio](https://github.com/MichelNsouza/api.GerenciadorMatriculas).
 
 ### Gerador de Curriculo
 - [Repositorio](https://github.com/MichelNsouza/GeradorCV/).
@@ -128,7 +121,7 @@ Tentei pôr em ordem cronologica
 - Laravel: validando formulários, usando sessões e definindo relacionamentos
 - Desenvolvendo uma API Rest com Laravel e MySQL (curso de férias off Faculdade)
 
-### Semestres finais da faculdade (em andamento)
+### Semestres finais da faculdade - 2025
 (Matérias favoritas, relacionadas diretamente a código)
 - Programação Web I
     * Vue.js
@@ -139,11 +132,16 @@ Tentei pôr em ordem cronologica
 - Programação Orientada a Objetos II
     * JAVA
 - Programação Web II
-    * JAVA (API Luggy Car)
-- Gerenciamento e Desenvolvimento em Banco de Dados
+    * Spring boot - java (API Luggy Car)
+- Sistemas distribuidos
+    * Deploy automatico em VM's (google, oracle)
+    * Teste de carga
+    * mensageria com rabbitmq
+    * conteinerização de aplicações com docker
 - Desenvolvimento Mobile
+    * Android, PWA, React Native, React, Ionic (FW), Firebase
 
-### Plano de Formação do Estágio NewM/Topaz - Venture Stefanini
+### Plano de Formação de Estágio da Topaz - Venture Stefanini
 (Pequenos Projetos práticos e/ou apresentação teorica)
 - Docker, Docker Compose
 - SOLID
